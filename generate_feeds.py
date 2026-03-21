@@ -17,7 +17,7 @@ now = datetime.now(PARIS_TZ)
 iso_year, iso_week, _ = now.isocalendar()
 week_label = f"{iso_year}-W{iso_week:02d}"
 
-GITHUB_USER = "YOUR_GITHUB_USERNAME"
+GITHUB_USER = "samtech06000"
 GITHUB_REPO = "nrj-rss"
 BASE_URL = f"https://{GITHUB_USER}.github.io/{GITHUB_REPO}"
 
