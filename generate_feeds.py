@@ -21,7 +21,7 @@ pub_date = now.strftime("%a, %d %b %Y 00:00:00 +0100")
 week_label = now.strftime("%Y-W%W")  # e.g. 2026-W12
 
 # GitHub Pages base URL — update this after creating the repo
-GITHUB_USER = "YOUR_GITHUB_USERNAME"
+GITHUB_USER = "samtech06000"
 GITHUB_REPO = "nrj-rss"
 BASE_URL = f"https://{GITHUB_USER}.github.io/{GITHUB_REPO}"
 
