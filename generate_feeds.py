@@ -1,32 +1,19 @@
 #!/usr/bin/env python3
-
-# Generate RSS podcast feeds for NRJ Paris and NRJ Belgique.
-
-# 168 episodes per feed (7 days x 24 hours).
-
-# Runs daily at 01:01 Paris time via GitHub Actions.
-
-# GUID includes ISO week number so Apple Podcasts refreshes every week.
-
 from datetime import datetime, timezone, timedelta
 import os
 
 PARIS_TZ = timezone(timedelta(hours=1))
 now = datetime.now(PARIS_TZ)
 
-# ISO week number — changes every Monday, forces refresh in podcast apps
-
 iso_year, iso_week, _ = now.isocalendar()
-week_label = f”{iso_year}-W{iso_week:02d}”
+week_label = str(iso_year) + “-W” + str(iso_week).zfill(2)
 
 GITHUB_USER = “samtech06000”
 GITHUB_REPO = “nrj-rss”
-BASE_URL = f”https://{GITHUB_USER}.github.io/{GITHUB_REPO}”
+BASE_URL = “https://” + GITHUB_USER + “.github.io/” + GITHUB_REPO
 
 DAYS_EN = [“Monday”, “Tuesday”, “Wednesday”, “Thursday”, “Friday”, “Saturday”, “Sunday”]
 DAYS_FR = [“Lundi”, “Mardi”, “Mercredi”, “Jeudi”, “Vendredi”, “Samedi”, “Dimanche”]
-
-# Monday of the current ISO week (used for pubDate of each episode)
 
 monday_this_week = now - timedelta(days=now.weekday())
 monday_this_week = monday_this_week.replace(hour=0, minute=0, second=0, microsecond=0)
@@ -35,8 +22,8 @@ feeds = [
 {
 “filename”: “nrjparis.xml”,
 “title”: “NRJ Paris”,
-“description”: “Enregistrements NRJ Paris — toute la semaine, heure par heure”,
-“image”: f”{BASE_URL}/nrj-paris-logo.png”,
+“description”: “Enregistrements NRJ Paris - toute la semaine, heure par heure”,
+“image”: BASE_URL + “/nrj-paris-logo.png”,
 “base_url”: “https://piges.alexandremartinat.com/NRJ_Paris”,
 “ext”: “mp3”,
 “audio_type”: “audio/mpeg”,
@@ -45,8 +32,8 @@ feeds = [
 {
 “filename”: “nrj-belgique.xml”,
 “title”: “NRJ Belgique”,
-“description”: “Enregistrements NRJ Belgique — toute la semaine, heure par heure”,
-“image”: f”{BASE_URL}/nrj-belgique-logo.png”,
+“description”: “Enregistrements NRJ Belgique - toute la semaine, heure par heure”,
+“image”: BASE_URL + “/nrj-belgique-logo.png”,
 “base_url”: “https://piges.alexandremartinat.com/NRJ_Belgique”,
 “ext”: “aac”,
 “audio_type”: “audio/aac”,
@@ -60,63 +47,52 @@ for feed in feeds:
 items = []
 
 ```
-# Build 168 items: iterate days 0..6 (Mon..Sun), hours 0..23
-# Most recent first (Sunday 23h → Monday 00h)
 for day_idx in reversed(range(7)):
     for hour in reversed(range(24)):
         day_en = DAYS_EN[day_idx]
         day_fr = DAYS_FR[day_idx]
 
-        # Compute actual datetime of this slot for pubDate
         slot_dt = monday_this_week + timedelta(days=day_idx, hours=hour)
         pub_date = slot_dt.strftime("%a, %d %b %Y %H:%M:%S +0100")
 
-        audio_url = f"{feed['base_url']}/{day_en}/{hour:02d}.{feed['ext']}?w={week_label}"
-        guid = f"{feed['guid_prefix']}-{week_label}-{day_en}-{hour:02d}"
-        title = f"{feed['title']} — {day_fr} {hour:02d}h"
+        audio_url = feed["base_url"] + "/" + day_en + "/" + str(hour).zfill(2) + "." + feed["ext"] + "?w=" + week_label
+        guid = feed["guid_prefix"] + "-" + week_label + "-" + day_en + "-" + str(hour).zfill(2)
+        title = feed["title"] + " - " + day_fr + " " + str(hour).zfill(2) + "h"
 
-        items.append(f"""    <item>
-  <title>{title}</title>
-  <description>Semaine {week_label} — {day_fr} {hour:02d}h00</description>
-  <pubDate>{pub_date}</pubDate>
-  <enclosure url="{audio_url}"
-             type="{feed['audio_type']}"
-             length="0"/>
-  <guid isPermaLink="false">{guid}</guid>
-  <itunes:duration>3600</itunes:duration>
-  <itunes:explicit>false</itunes:explicit>
-</item>""")
+        item = "    <item>\n"
+        item += "      <title>" + title + "</title>\n"
+        item += "      <description>Semaine " + week_label + " - " + day_fr + " " + str(hour).zfill(2) + "h00</description>\n"
+        item += "      <pubDate>" + pub_date + "</pubDate>\n"
+        item += "      <enclosure url=\"" + audio_url + "\" type=\"" + feed["audio_type"] + "\" length=\"0\"/>\n"
+        item += "      <guid isPermaLink=\"false\">" + guid + "</guid>\n"
+        item += "      <itunes:duration>3600</itunes:duration>\n"
+        item += "      <itunes:explicit>false</itunes:explicit>\n"
+        item += "    </item>"
+        items.append(item)
 
 last_build = now.strftime("%a, %d %b %Y %H:%M:%S +0100")
-feed_url = f"{BASE_URL}/feeds/{feed['filename']}"
+feed_url = BASE_URL + "/feeds/" + feed["filename"]
 
-xml = f"""<?xml version="1.0" encoding="UTF-8"?>
-```
+xml = "<?xml version=\"1.0\" encoding=\"UTF-8\"?>\n"
+xml += "<rss version=\"2.0\"\n"
+xml += "  xmlns:itunes=\"http://www.itunes.com/dtds/podcast-1.0.dtd\"\n"
+xml += "  xmlns:atom=\"http://www.w3.org/2005/Atom\">\n"
+xml += "  <channel>\n"
+xml += "    <title>" + feed["title"] + "</title>\n"
+xml += "    <link>" + BASE_URL + "</link>\n"
+xml += "    <description>" + feed["description"] + "</description>\n"
+xml += "    <language>fr</language>\n"
+xml += "    <lastBuildDate>" + last_build + "</lastBuildDate>\n"
+xml += "    <atom:link href=\"" + feed_url + "\" rel=\"self\" type=\"application/rss+xml\"/>\n"
+xml += "    <itunes:author>NRJ</itunes:author>\n"
+xml += "    <itunes:image href=\"" + feed["image"] + "\"/>\n"
+xml += "    <itunes:category text=\"Music\"/>\n"
+xml += "    <itunes:explicit>false</itunes:explicit>\n\n"
+xml += "\n".join(items)
+xml += "\n\n  </channel>\n</rss>\n"
 
-<rss version="2.0"
-xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd"
-xmlns:atom="http://www.w3.org/2005/Atom">
-<channel>
-<title>{feed[‘title’]}</title>
-<link>{BASE_URL}</link>
-<description>{feed[‘description’]}</description>
-<language>fr</language>
-<lastBuildDate>{last_build}</lastBuildDate>
-<atom:link href=”{feed_url}” rel=“self” type=“application/rss+xml”/>
-<itunes:author>NRJ</itunes:author>
-<itunes:image href=”{feed[‘image’]}”/>
-<itunes:category text=“Music”/>
-<itunes:explicit>false</itunes:explicit>
-
-{chr(10).join(items)}
-
-  </channel>
-</rss>
-"""
-
-```
-path = f"feeds/{feed['filename']}"
+path = "feeds/" + feed["filename"]
 with open(path, "w", encoding="utf-8") as f:
     f.write(xml)
-print(f"✅ Generated {path} — {len(items)} episodes — week {week_label}")
+print("Generated " + path + " - " + str(len(items)) + " episodes - week " + week_label)
 ```
