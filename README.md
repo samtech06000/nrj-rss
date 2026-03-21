@@ -3,61 +3,15 @@
 Flux RSS podcast auto-générés pour NRJ Paris et NRJ Belgique.  
 Mis à jour chaque lundi à minuit via GitHub Actions → GitHub Pages.
 
-## Setup (5 minutes)
 
-### 1. Crée le repo GitHub
-
-- Va sur [github.com/new](https://github.com/new)
-- Nom : `nrj-rss`
-- Visibilité : **Public** (requis pour GitHub Pages gratuit)
-- Ne coche rien d'autre
-
-### 2. Upload les fichiers
-
-Dans le repo créé, uploade tous ces fichiers en conservant la structure :
+### 1. URLs des flux RSS
 
 ```
-nrj-rss/
-├── generate_feeds.py
-├── index.html
-├── README.md
-└── .github/
-    └── workflows/
-        └── update-feeds.yml
+https://samtech06000.github.io/nrj-rss/feeds/nrjparis.xml
+https://samtech06000.github.io/nrj-rss/feeds/nrj-belgique.xml
 ```
 
-### 3. Mets ton username dans le script
-
-Dans `generate_feeds.py`, ligne 18 :
-
-```python
-GITHUB_USER = "TON_USERNAME_GITHUB"
-```
-
-Remplace `YOUR_GITHUB_USERNAME` par ton vrai username GitHub.
-
-### 4. Active GitHub Pages
-
-- Repo → **Settings** → **Pages**
-- Source : `Deploy from a branch`
-- Branch : `main` / `root`
-- Sauvegarde
-
-### 5. Génère les feeds une première fois
-
-- Repo → **Actions** → `Generate & Deploy RSS Feeds`
-- Clique **Run workflow** → **Run workflow**
-
-Les fichiers `feeds/nrj-paris.xml` et `feeds/nrj-belgique.xml` apparaissent dans le repo.
-
-### 6. Tes URLs de flux RSS
-
-```
-https://TON_USERNAME.github.io/nrj-rss/feeds/nrj-paris.xml
-https://TON_USERNAME.github.io/nrj-rss/feeds/nrj-belgique.xml
-```
-
-Colle ces URLs dans Apple Podcasts → Bibliothèque → Ajouter un podcast par URL.
+Coller ces URLs dans Apple Podcasts → Bibliothèque → Ajouter un podcast par URL.
 
 ---
 
