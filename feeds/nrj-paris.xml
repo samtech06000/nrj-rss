@@ -7,10 +7,10 @@
     <link>https://YOUR_GITHUB_USERNAME.github.io/nrj-rss</link>
     <description>Enregistrements NRJ Paris — toute la semaine, heure par heure</description>
     <language>fr</language>
-    <lastBuildDate>Sat, 21 Mar 2026 13:11:05 +0100</lastBuildDate>
+    <lastBuildDate>Sat, 21 Mar 2026 13:20:52 +0100</lastBuildDate>
     <atom:link href="https://YOUR_GITHUB_USERNAME.github.io/nrj-rss/feeds/nrj-paris.xml" rel="self" type="application/rss+xml"/>
     <itunes:author>NRJ</itunes:author>
-    <itunes:image href="https://upload.wikimedia.org/wikipedia/fr/thumb/6/6e/NRJ_logo_2019.svg/1200px-NRJ_logo_2019.svg.png"/>
+    <itunes:image href="https://YOUR_GITHUB_USERNAME.github.io/nrj-rss/nrj-paris-logo.png"/>
     <itunes:category text="Music"/>
     <itunes:explicit>false</itunes:explicit>
 
