@@ -4,24 +4,1861 @@
   xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>NRJ Paris</title>
-    <link>https://samtech06000.github.io/nrj-rss</link>
-    <description>Enregistrement hebdomadaire NRJ Paris — lundi 00h</description>
+    <link>https://YOUR_GITHUB_USERNAME.github.io/nrj-rss</link>
+    <description>Enregistrements NRJ Paris — toute la semaine, heure par heure</description>
     <language>fr</language>
-    <lastBuildDate>Sat, 21 Mar 2026 00:00:00 +0100</lastBuildDate>
-    <atom:link href="https://samtech06000.github.io/nrj-rss/feeds/nrj-paris.xml" rel="self" type="application/rss+xml"/>
+    <lastBuildDate>Sat, 21 Mar 2026 13:11:05 +0100</lastBuildDate>
+    <atom:link href="https://YOUR_GITHUB_USERNAME.github.io/nrj-rss/feeds/nrj-paris.xml" rel="self" type="application/rss+xml"/>
     <itunes:author>NRJ</itunes:author>
     <itunes:image href="https://upload.wikimedia.org/wikipedia/fr/thumb/6/6e/NRJ_logo_2019.svg/1200px-NRJ_logo_2019.svg.png"/>
     <itunes:category text="Music"/>
     <itunes:explicit>false</itunes:explicit>
 
     <item>
-      <title>NRJ Paris — semaine du 21/03/2026</title>
-      <description>Enregistrement lundi 00h — 2026-W11</description>
-      <pubDate>Sat, 21 Mar 2026 00:00:00 +0100</pubDate>
-      <enclosure url="https://piges.alexandremartinat.com/NRJ_Paris/Monday/00.mp3?nocache=2026-W11"
+      <title>NRJ Paris — Dimanche 23h</title>
+      <description>Semaine 2026-W12 — Dimanche 23h00</description>
+      <pubDate>Sun, 22 Mar 2026 23:00:00 +0100</pubDate>
+      <enclosure url="https://piges.alexandremartinat.com/NRJ_Paris/Sunday/23.mp3?w=2026-W12"
                  type="audio/mpeg"
                  length="0"/>
-      <guid isPermaLink="false">nrj-paris-2026-W11</guid>
+      <guid isPermaLink="false">nrj-paris-2026-W12-Sunday-23</guid>
+      <itunes:duration>3600</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>NRJ Paris — Dimanche 22h</title>
+      <description>Semaine 2026-W12 — Dimanche 22h00</description>
+      <pubDate>Sun, 22 Mar 2026 22:00:00 +0100</pubDate>
+      <enclosure url="https://piges.alexandremartinat.com/NRJ_Paris/Sunday/22.mp3?w=2026-W12"
+                 type="audio/mpeg"
+                 length="0"/>
+      <guid isPermaLink="false">nrj-paris-2026-W12-Sunday-22</guid>
+      <itunes:duration>3600</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>NRJ Paris — Dimanche 21h</title>
+      <description>Semaine 2026-W12 — Dimanche 21h00</description>
+      <pubDate>Sun, 22 Mar 2026 21:00:00 +0100</pubDate>
+      <enclosure url="https://piges.alexandremartinat.com/NRJ_Paris/Sunday/21.mp3?w=2026-W12"
+                 type="audio/mpeg"
+                 length="0"/>
+      <guid isPermaLink="false">nrj-paris-2026-W12-Sunday-21</guid>
+      <itunes:duration>3600</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>NRJ Paris — Dimanche 20h</title>
+      <description>Semaine 2026-W12 — Dimanche 20h00</description>
+      <pubDate>Sun, 22 Mar 2026 20:00:00 +0100</pubDate>
+      <enclosure url="https://piges.alexandremartinat.com/NRJ_Paris/Sunday/20.mp3?w=2026-W12"
+                 type="audio/mpeg"
+                 length="0"/>
+      <guid isPermaLink="false">nrj-paris-2026-W12-Sunday-20</guid>
+      <itunes:duration>3600</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>NRJ Paris — Dimanche 19h</title>
+      <description>Semaine 2026-W12 — Dimanche 19h00</description>
+      <pubDate>Sun, 22 Mar 2026 19:00:00 +0100</pubDate>
+      <enclosure url="https://piges.alexandremartinat.com/NRJ_Paris/Sunday/19.mp3?w=2026-W12"
+                 type="audio/mpeg"
+                 length="0"/>
+      <guid isPermaLink="false">nrj-paris-2026-W12-Sunday-19</guid>
+      <itunes:duration>3600</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>NRJ Paris — Dimanche 18h</title>
+      <description>Semaine 2026-W12 — Dimanche 18h00</description>
+      <pubDate>Sun, 22 Mar 2026 18:00:00 +0100</pubDate>
+      <enclosure url="https://piges.alexandremartinat.com/NRJ_Paris/Sunday/18.mp3?w=2026-W12"
+                 type="audio/mpeg"
+                 length="0"/>
+      <guid isPermaLink="false">nrj-paris-2026-W12-Sunday-18</guid>
+      <itunes:duration>3600</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>NRJ Paris — Dimanche 17h</title>
+      <description>Semaine 2026-W12 — Dimanche 17h00</description>
+      <pubDate>Sun, 22 Mar 2026 17:00:00 +0100</pubDate>
+      <enclosure url="https://piges.alexandremartinat.com/NRJ_Paris/Sunday/17.mp3?w=2026-W12"
+                 type="audio/mpeg"
+                 length="0"/>
+      <guid isPermaLink="false">nrj-paris-2026-W12-Sunday-17</guid>
+      <itunes:duration>3600</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>NRJ Paris — Dimanche 16h</title>
+      <description>Semaine 2026-W12 — Dimanche 16h00</description>
+      <pubDate>Sun, 22 Mar 2026 16:00:00 +0100</pubDate>
+      <enclosure url="https://piges.alexandremartinat.com/NRJ_Paris/Sunday/16.mp3?w=2026-W12"
+                 type="audio/mpeg"
+                 length="0"/>
+      <guid isPermaLink="false">nrj-paris-2026-W12-Sunday-16</guid>
+      <itunes:duration>3600</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>NRJ Paris — Dimanche 15h</title>
+      <description>Semaine 2026-W12 — Dimanche 15h00</description>
+      <pubDate>Sun, 22 Mar 2026 15:00:00 +0100</pubDate>
+      <enclosure url="https://piges.alexandremartinat.com/NRJ_Paris/Sunday/15.mp3?w=2026-W12"
+                 type="audio/mpeg"
+                 length="0"/>
+      <guid isPermaLink="false">nrj-paris-2026-W12-Sunday-15</guid>
+      <itunes:duration>3600</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>NRJ Paris — Dimanche 14h</title>
+      <description>Semaine 2026-W12 — Dimanche 14h00</description>
+      <pubDate>Sun, 22 Mar 2026 14:00:00 +0100</pubDate>
+      <enclosure url="https://piges.alexandremartinat.com/NRJ_Paris/Sunday/14.mp3?w=2026-W12"
+                 type="audio/mpeg"
+                 length="0"/>
+      <guid isPermaLink="false">nrj-paris-2026-W12-Sunday-14</guid>
+      <itunes:duration>3600</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>NRJ Paris — Dimanche 13h</title>
+      <description>Semaine 2026-W12 — Dimanche 13h00</description>
+      <pubDate>Sun, 22 Mar 2026 13:00:00 +0100</pubDate>
+      <enclosure url="https://piges.alexandremartinat.com/NRJ_Paris/Sunday/13.mp3?w=2026-W12"
+                 type="audio/mpeg"
+                 length="0"/>
+      <guid isPermaLink="false">nrj-paris-2026-W12-Sunday-13</guid>
+      <itunes:duration>3600</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>NRJ Paris — Dimanche 12h</title>
+      <description>Semaine 2026-W12 — Dimanche 12h00</description>
+      <pubDate>Sun, 22 Mar 2026 12:00:00 +0100</pubDate>
+      <enclosure url="https://piges.alexandremartinat.com/NRJ_Paris/Sunday/12.mp3?w=2026-W12"
+                 type="audio/mpeg"
+                 length="0"/>
+      <guid isPermaLink="false">nrj-paris-2026-W12-Sunday-12</guid>
+      <itunes:duration>3600</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>NRJ Paris — Dimanche 11h</title>
+      <description>Semaine 2026-W12 — Dimanche 11h00</description>
+      <pubDate>Sun, 22 Mar 2026 11:00:00 +0100</pubDate>
+      <enclosure url="https://piges.alexandremartinat.com/NRJ_Paris/Sunday/11.mp3?w=2026-W12"
+                 type="audio/mpeg"
+                 length="0"/>
+      <guid isPermaLink="false">nrj-paris-2026-W12-Sunday-11</guid>
+      <itunes:duration>3600</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>NRJ Paris — Dimanche 10h</title>
+      <description>Semaine 2026-W12 — Dimanche 10h00</description>
+      <pubDate>Sun, 22 Mar 2026 10:00:00 +0100</pubDate>
+      <enclosure url="https://piges.alexandremartinat.com/NRJ_Paris/Sunday/10.mp3?w=2026-W12"
+                 type="audio/mpeg"
+                 length="0"/>
+      <guid isPermaLink="false">nrj-paris-2026-W12-Sunday-10</guid>
+      <itunes:duration>3600</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>NRJ Paris — Dimanche 09h</title>
+      <description>Semaine 2026-W12 — Dimanche 09h00</description>
+      <pubDate>Sun, 22 Mar 2026 09:00:00 +0100</pubDate>
+      <enclosure url="https://piges.alexandremartinat.com/NRJ_Paris/Sunday/09.mp3?w=2026-W12"
+                 type="audio/mpeg"
+                 length="0"/>
+      <guid isPermaLink="false">nrj-paris-2026-W12-Sunday-09</guid>
+      <itunes:duration>3600</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>NRJ Paris — Dimanche 08h</title>
+      <description>Semaine 2026-W12 — Dimanche 08h00</description>
+      <pubDate>Sun, 22 Mar 2026 08:00:00 +0100</pubDate>
+      <enclosure url="https://piges.alexandremartinat.com/NRJ_Paris/Sunday/08.mp3?w=2026-W12"
+                 type="audio/mpeg"
+                 length="0"/>
+      <guid isPermaLink="false">nrj-paris-2026-W12-Sunday-08</guid>
+      <itunes:duration>3600</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>NRJ Paris — Dimanche 07h</title>
+      <description>Semaine 2026-W12 — Dimanche 07h00</description>
+      <pubDate>Sun, 22 Mar 2026 07:00:00 +0100</pubDate>
+      <enclosure url="https://piges.alexandremartinat.com/NRJ_Paris/Sunday/07.mp3?w=2026-W12"
+                 type="audio/mpeg"
+                 length="0"/>
+      <guid isPermaLink="false">nrj-paris-2026-W12-Sunday-07</guid>
+      <itunes:duration>3600</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>NRJ Paris — Dimanche 06h</title>
+      <description>Semaine 2026-W12 — Dimanche 06h00</description>
+      <pubDate>Sun, 22 Mar 2026 06:00:00 +0100</pubDate>
+      <enclosure url="https://piges.alexandremartinat.com/NRJ_Paris/Sunday/06.mp3?w=2026-W12"
+                 type="audio/mpeg"
+                 length="0"/>
+      <guid isPermaLink="false">nrj-paris-2026-W12-Sunday-06</guid>
+      <itunes:duration>3600</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>NRJ Paris — Dimanche 05h</title>
+      <description>Semaine 2026-W12 — Dimanche 05h00</description>
+      <pubDate>Sun, 22 Mar 2026 05:00:00 +0100</pubDate>
+      <enclosure url="https://piges.alexandremartinat.com/NRJ_Paris/Sunday/05.mp3?w=2026-W12"
+                 type="audio/mpeg"
+                 length="0"/>
+      <guid isPermaLink="false">nrj-paris-2026-W12-Sunday-05</guid>
+      <itunes:duration>3600</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>NRJ Paris — Dimanche 04h</title>
+      <description>Semaine 2026-W12 — Dimanche 04h00</description>
+      <pubDate>Sun, 22 Mar 2026 04:00:00 +0100</pubDate>
+      <enclosure url="https://piges.alexandremartinat.com/NRJ_Paris/Sunday/04.mp3?w=2026-W12"
+                 type="audio/mpeg"
+                 length="0"/>
+      <guid isPermaLink="false">nrj-paris-2026-W12-Sunday-04</guid>
+      <itunes:duration>3600</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>NRJ Paris — Dimanche 03h</title>
+      <description>Semaine 2026-W12 — Dimanche 03h00</description>
+      <pubDate>Sun, 22 Mar 2026 03:00:00 +0100</pubDate>
+      <enclosure url="https://piges.alexandremartinat.com/NRJ_Paris/Sunday/03.mp3?w=2026-W12"
+                 type="audio/mpeg"
+                 length="0"/>
+      <guid isPermaLink="false">nrj-paris-2026-W12-Sunday-03</guid>
+      <itunes:duration>3600</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>NRJ Paris — Dimanche 02h</title>
+      <description>Semaine 2026-W12 — Dimanche 02h00</description>
+      <pubDate>Sun, 22 Mar 2026 02:00:00 +0100</pubDate>
+      <enclosure url="https://piges.alexandremartinat.com/NRJ_Paris/Sunday/02.mp3?w=2026-W12"
+                 type="audio/mpeg"
+                 length="0"/>
+      <guid isPermaLink="false">nrj-paris-2026-W12-Sunday-02</guid>
+      <itunes:duration>3600</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>NRJ Paris — Dimanche 01h</title>
+      <description>Semaine 2026-W12 — Dimanche 01h00</description>
+      <pubDate>Sun, 22 Mar 2026 01:00:00 +0100</pubDate>
+      <enclosure url="https://piges.alexandremartinat.com/NRJ_Paris/Sunday/01.mp3?w=2026-W12"
+                 type="audio/mpeg"
+                 length="0"/>
+      <guid isPermaLink="false">nrj-paris-2026-W12-Sunday-01</guid>
+      <itunes:duration>3600</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>NRJ Paris — Dimanche 00h</title>
+      <description>Semaine 2026-W12 — Dimanche 00h00</description>
+      <pubDate>Sun, 22 Mar 2026 00:00:00 +0100</pubDate>
+      <enclosure url="https://piges.alexandremartinat.com/NRJ_Paris/Sunday/00.mp3?w=2026-W12"
+                 type="audio/mpeg"
+                 length="0"/>
+      <guid isPermaLink="false">nrj-paris-2026-W12-Sunday-00</guid>
+      <itunes:duration>3600</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>NRJ Paris — Samedi 23h</title>
+      <description>Semaine 2026-W12 — Samedi 23h00</description>
+      <pubDate>Sat, 21 Mar 2026 23:00:00 +0100</pubDate>
+      <enclosure url="https://piges.alexandremartinat.com/NRJ_Paris/Saturday/23.mp3?w=2026-W12"
+                 type="audio/mpeg"
+                 length="0"/>
+      <guid isPermaLink="false">nrj-paris-2026-W12-Saturday-23</guid>
+      <itunes:duration>3600</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>NRJ Paris — Samedi 22h</title>
+      <description>Semaine 2026-W12 — Samedi 22h00</description>
+      <pubDate>Sat, 21 Mar 2026 22:00:00 +0100</pubDate>
+      <enclosure url="https://piges.alexandremartinat.com/NRJ_Paris/Saturday/22.mp3?w=2026-W12"
+                 type="audio/mpeg"
+                 length="0"/>
+      <guid isPermaLink="false">nrj-paris-2026-W12-Saturday-22</guid>
+      <itunes:duration>3600</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>NRJ Paris — Samedi 21h</title>
+      <description>Semaine 2026-W12 — Samedi 21h00</description>
+      <pubDate>Sat, 21 Mar 2026 21:00:00 +0100</pubDate>
+      <enclosure url="https://piges.alexandremartinat.com/NRJ_Paris/Saturday/21.mp3?w=2026-W12"
+                 type="audio/mpeg"
+                 length="0"/>
+      <guid isPermaLink="false">nrj-paris-2026-W12-Saturday-21</guid>
+      <itunes:duration>3600</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>NRJ Paris — Samedi 20h</title>
+      <description>Semaine 2026-W12 — Samedi 20h00</description>
+      <pubDate>Sat, 21 Mar 2026 20:00:00 +0100</pubDate>
+      <enclosure url="https://piges.alexandremartinat.com/NRJ_Paris/Saturday/20.mp3?w=2026-W12"
+                 type="audio/mpeg"
+                 length="0"/>
+      <guid isPermaLink="false">nrj-paris-2026-W12-Saturday-20</guid>
+      <itunes:duration>3600</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>NRJ Paris — Samedi 19h</title>
+      <description>Semaine 2026-W12 — Samedi 19h00</description>
+      <pubDate>Sat, 21 Mar 2026 19:00:00 +0100</pubDate>
+      <enclosure url="https://piges.alexandremartinat.com/NRJ_Paris/Saturday/19.mp3?w=2026-W12"
+                 type="audio/mpeg"
+                 length="0"/>
+      <guid isPermaLink="false">nrj-paris-2026-W12-Saturday-19</guid>
+      <itunes:duration>3600</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>NRJ Paris — Samedi 18h</title>
+      <description>Semaine 2026-W12 — Samedi 18h00</description>
+      <pubDate>Sat, 21 Mar 2026 18:00:00 +0100</pubDate>
+      <enclosure url="https://piges.alexandremartinat.com/NRJ_Paris/Saturday/18.mp3?w=2026-W12"
+                 type="audio/mpeg"
+                 length="0"/>
+      <guid isPermaLink="false">nrj-paris-2026-W12-Saturday-18</guid>
+      <itunes:duration>3600</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>NRJ Paris — Samedi 17h</title>
+      <description>Semaine 2026-W12 — Samedi 17h00</description>
+      <pubDate>Sat, 21 Mar 2026 17:00:00 +0100</pubDate>
+      <enclosure url="https://piges.alexandremartinat.com/NRJ_Paris/Saturday/17.mp3?w=2026-W12"
+                 type="audio/mpeg"
+                 length="0"/>
+      <guid isPermaLink="false">nrj-paris-2026-W12-Saturday-17</guid>
+      <itunes:duration>3600</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>NRJ Paris — Samedi 16h</title>
+      <description>Semaine 2026-W12 — Samedi 16h00</description>
+      <pubDate>Sat, 21 Mar 2026 16:00:00 +0100</pubDate>
+      <enclosure url="https://piges.alexandremartinat.com/NRJ_Paris/Saturday/16.mp3?w=2026-W12"
+                 type="audio/mpeg"
+                 length="0"/>
+      <guid isPermaLink="false">nrj-paris-2026-W12-Saturday-16</guid>
+      <itunes:duration>3600</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>NRJ Paris — Samedi 15h</title>
+      <description>Semaine 2026-W12 — Samedi 15h00</description>
+      <pubDate>Sat, 21 Mar 2026 15:00:00 +0100</pubDate>
+      <enclosure url="https://piges.alexandremartinat.com/NRJ_Paris/Saturday/15.mp3?w=2026-W12"
+                 type="audio/mpeg"
+                 length="0"/>
+      <guid isPermaLink="false">nrj-paris-2026-W12-Saturday-15</guid>
+      <itunes:duration>3600</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>NRJ Paris — Samedi 14h</title>
+      <description>Semaine 2026-W12 — Samedi 14h00</description>
+      <pubDate>Sat, 21 Mar 2026 14:00:00 +0100</pubDate>
+      <enclosure url="https://piges.alexandremartinat.com/NRJ_Paris/Saturday/14.mp3?w=2026-W12"
+                 type="audio/mpeg"
+                 length="0"/>
+      <guid isPermaLink="false">nrj-paris-2026-W12-Saturday-14</guid>
+      <itunes:duration>3600</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>NRJ Paris — Samedi 13h</title>
+      <description>Semaine 2026-W12 — Samedi 13h00</description>
+      <pubDate>Sat, 21 Mar 2026 13:00:00 +0100</pubDate>
+      <enclosure url="https://piges.alexandremartinat.com/NRJ_Paris/Saturday/13.mp3?w=2026-W12"
+                 type="audio/mpeg"
+                 length="0"/>
+      <guid isPermaLink="false">nrj-paris-2026-W12-Saturday-13</guid>
+      <itunes:duration>3600</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>NRJ Paris — Samedi 12h</title>
+      <description>Semaine 2026-W12 — Samedi 12h00</description>
+      <pubDate>Sat, 21 Mar 2026 12:00:00 +0100</pubDate>
+      <enclosure url="https://piges.alexandremartinat.com/NRJ_Paris/Saturday/12.mp3?w=2026-W12"
+                 type="audio/mpeg"
+                 length="0"/>
+      <guid isPermaLink="false">nrj-paris-2026-W12-Saturday-12</guid>
+      <itunes:duration>3600</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>NRJ Paris — Samedi 11h</title>
+      <description>Semaine 2026-W12 — Samedi 11h00</description>
+      <pubDate>Sat, 21 Mar 2026 11:00:00 +0100</pubDate>
+      <enclosure url="https://piges.alexandremartinat.com/NRJ_Paris/Saturday/11.mp3?w=2026-W12"
+                 type="audio/mpeg"
+                 length="0"/>
+      <guid isPermaLink="false">nrj-paris-2026-W12-Saturday-11</guid>
+      <itunes:duration>3600</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>NRJ Paris — Samedi 10h</title>
+      <description>Semaine 2026-W12 — Samedi 10h00</description>
+      <pubDate>Sat, 21 Mar 2026 10:00:00 +0100</pubDate>
+      <enclosure url="https://piges.alexandremartinat.com/NRJ_Paris/Saturday/10.mp3?w=2026-W12"
+                 type="audio/mpeg"
+                 length="0"/>
+      <guid isPermaLink="false">nrj-paris-2026-W12-Saturday-10</guid>
+      <itunes:duration>3600</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>NRJ Paris — Samedi 09h</title>
+      <description>Semaine 2026-W12 — Samedi 09h00</description>
+      <pubDate>Sat, 21 Mar 2026 09:00:00 +0100</pubDate>
+      <enclosure url="https://piges.alexandremartinat.com/NRJ_Paris/Saturday/09.mp3?w=2026-W12"
+                 type="audio/mpeg"
+                 length="0"/>
+      <guid isPermaLink="false">nrj-paris-2026-W12-Saturday-09</guid>
+      <itunes:duration>3600</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>NRJ Paris — Samedi 08h</title>
+      <description>Semaine 2026-W12 — Samedi 08h00</description>
+      <pubDate>Sat, 21 Mar 2026 08:00:00 +0100</pubDate>
+      <enclosure url="https://piges.alexandremartinat.com/NRJ_Paris/Saturday/08.mp3?w=2026-W12"
+                 type="audio/mpeg"
+                 length="0"/>
+      <guid isPermaLink="false">nrj-paris-2026-W12-Saturday-08</guid>
+      <itunes:duration>3600</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>NRJ Paris — Samedi 07h</title>
+      <description>Semaine 2026-W12 — Samedi 07h00</description>
+      <pubDate>Sat, 21 Mar 2026 07:00:00 +0100</pubDate>
+      <enclosure url="https://piges.alexandremartinat.com/NRJ_Paris/Saturday/07.mp3?w=2026-W12"
+                 type="audio/mpeg"
+                 length="0"/>
+      <guid isPermaLink="false">nrj-paris-2026-W12-Saturday-07</guid>
+      <itunes:duration>3600</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>NRJ Paris — Samedi 06h</title>
+      <description>Semaine 2026-W12 — Samedi 06h00</description>
+      <pubDate>Sat, 21 Mar 2026 06:00:00 +0100</pubDate>
+      <enclosure url="https://piges.alexandremartinat.com/NRJ_Paris/Saturday/06.mp3?w=2026-W12"
+                 type="audio/mpeg"
+                 length="0"/>
+      <guid isPermaLink="false">nrj-paris-2026-W12-Saturday-06</guid>
+      <itunes:duration>3600</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>NRJ Paris — Samedi 05h</title>
+      <description>Semaine 2026-W12 — Samedi 05h00</description>
+      <pubDate>Sat, 21 Mar 2026 05:00:00 +0100</pubDate>
+      <enclosure url="https://piges.alexandremartinat.com/NRJ_Paris/Saturday/05.mp3?w=2026-W12"
+                 type="audio/mpeg"
+                 length="0"/>
+      <guid isPermaLink="false">nrj-paris-2026-W12-Saturday-05</guid>
+      <itunes:duration>3600</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>NRJ Paris — Samedi 04h</title>
+      <description>Semaine 2026-W12 — Samedi 04h00</description>
+      <pubDate>Sat, 21 Mar 2026 04:00:00 +0100</pubDate>
+      <enclosure url="https://piges.alexandremartinat.com/NRJ_Paris/Saturday/04.mp3?w=2026-W12"
+                 type="audio/mpeg"
+                 length="0"/>
+      <guid isPermaLink="false">nrj-paris-2026-W12-Saturday-04</guid>
+      <itunes:duration>3600</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>NRJ Paris — Samedi 03h</title>
+      <description>Semaine 2026-W12 — Samedi 03h00</description>
+      <pubDate>Sat, 21 Mar 2026 03:00:00 +0100</pubDate>
+      <enclosure url="https://piges.alexandremartinat.com/NRJ_Paris/Saturday/03.mp3?w=2026-W12"
+                 type="audio/mpeg"
+                 length="0"/>
+      <guid isPermaLink="false">nrj-paris-2026-W12-Saturday-03</guid>
+      <itunes:duration>3600</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>NRJ Paris — Samedi 02h</title>
+      <description>Semaine 2026-W12 — Samedi 02h00</description>
+      <pubDate>Sat, 21 Mar 2026 02:00:00 +0100</pubDate>
+      <enclosure url="https://piges.alexandremartinat.com/NRJ_Paris/Saturday/02.mp3?w=2026-W12"
+                 type="audio/mpeg"
+                 length="0"/>
+      <guid isPermaLink="false">nrj-paris-2026-W12-Saturday-02</guid>
+      <itunes:duration>3600</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>NRJ Paris — Samedi 01h</title>
+      <description>Semaine 2026-W12 — Samedi 01h00</description>
+      <pubDate>Sat, 21 Mar 2026 01:00:00 +0100</pubDate>
+      <enclosure url="https://piges.alexandremartinat.com/NRJ_Paris/Saturday/01.mp3?w=2026-W12"
+                 type="audio/mpeg"
+                 length="0"/>
+      <guid isPermaLink="false">nrj-paris-2026-W12-Saturday-01</guid>
+      <itunes:duration>3600</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>NRJ Paris — Samedi 00h</title>
+      <description>Semaine 2026-W12 — Samedi 00h00</description>
+      <pubDate>Sat, 21 Mar 2026 00:00:00 +0100</pubDate>
+      <enclosure url="https://piges.alexandremartinat.com/NRJ_Paris/Saturday/00.mp3?w=2026-W12"
+                 type="audio/mpeg"
+                 length="0"/>
+      <guid isPermaLink="false">nrj-paris-2026-W12-Saturday-00</guid>
+      <itunes:duration>3600</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>NRJ Paris — Vendredi 23h</title>
+      <description>Semaine 2026-W12 — Vendredi 23h00</description>
+      <pubDate>Fri, 20 Mar 2026 23:00:00 +0100</pubDate>
+      <enclosure url="https://piges.alexandremartinat.com/NRJ_Paris/Friday/23.mp3?w=2026-W12"
+                 type="audio/mpeg"
+                 length="0"/>
+      <guid isPermaLink="false">nrj-paris-2026-W12-Friday-23</guid>
+      <itunes:duration>3600</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>NRJ Paris — Vendredi 22h</title>
+      <description>Semaine 2026-W12 — Vendredi 22h00</description>
+      <pubDate>Fri, 20 Mar 2026 22:00:00 +0100</pubDate>
+      <enclosure url="https://piges.alexandremartinat.com/NRJ_Paris/Friday/22.mp3?w=2026-W12"
+                 type="audio/mpeg"
+                 length="0"/>
+      <guid isPermaLink="false">nrj-paris-2026-W12-Friday-22</guid>
+      <itunes:duration>3600</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>NRJ Paris — Vendredi 21h</title>
+      <description>Semaine 2026-W12 — Vendredi 21h00</description>
+      <pubDate>Fri, 20 Mar 2026 21:00:00 +0100</pubDate>
+      <enclosure url="https://piges.alexandremartinat.com/NRJ_Paris/Friday/21.mp3?w=2026-W12"
+                 type="audio/mpeg"
+                 length="0"/>
+      <guid isPermaLink="false">nrj-paris-2026-W12-Friday-21</guid>
+      <itunes:duration>3600</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>NRJ Paris — Vendredi 20h</title>
+      <description>Semaine 2026-W12 — Vendredi 20h00</description>
+      <pubDate>Fri, 20 Mar 2026 20:00:00 +0100</pubDate>
+      <enclosure url="https://piges.alexandremartinat.com/NRJ_Paris/Friday/20.mp3?w=2026-W12"
+                 type="audio/mpeg"
+                 length="0"/>
+      <guid isPermaLink="false">nrj-paris-2026-W12-Friday-20</guid>
+      <itunes:duration>3600</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>NRJ Paris — Vendredi 19h</title>
+      <description>Semaine 2026-W12 — Vendredi 19h00</description>
+      <pubDate>Fri, 20 Mar 2026 19:00:00 +0100</pubDate>
+      <enclosure url="https://piges.alexandremartinat.com/NRJ_Paris/Friday/19.mp3?w=2026-W12"
+                 type="audio/mpeg"
+                 length="0"/>
+      <guid isPermaLink="false">nrj-paris-2026-W12-Friday-19</guid>
+      <itunes:duration>3600</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>NRJ Paris — Vendredi 18h</title>
+      <description>Semaine 2026-W12 — Vendredi 18h00</description>
+      <pubDate>Fri, 20 Mar 2026 18:00:00 +0100</pubDate>
+      <enclosure url="https://piges.alexandremartinat.com/NRJ_Paris/Friday/18.mp3?w=2026-W12"
+                 type="audio/mpeg"
+                 length="0"/>
+      <guid isPermaLink="false">nrj-paris-2026-W12-Friday-18</guid>
+      <itunes:duration>3600</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>NRJ Paris — Vendredi 17h</title>
+      <description>Semaine 2026-W12 — Vendredi 17h00</description>
+      <pubDate>Fri, 20 Mar 2026 17:00:00 +0100</pubDate>
+      <enclosure url="https://piges.alexandremartinat.com/NRJ_Paris/Friday/17.mp3?w=2026-W12"
+                 type="audio/mpeg"
+                 length="0"/>
+      <guid isPermaLink="false">nrj-paris-2026-W12-Friday-17</guid>
+      <itunes:duration>3600</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>NRJ Paris — Vendredi 16h</title>
+      <description>Semaine 2026-W12 — Vendredi 16h00</description>
+      <pubDate>Fri, 20 Mar 2026 16:00:00 +0100</pubDate>
+      <enclosure url="https://piges.alexandremartinat.com/NRJ_Paris/Friday/16.mp3?w=2026-W12"
+                 type="audio/mpeg"
+                 length="0"/>
+      <guid isPermaLink="false">nrj-paris-2026-W12-Friday-16</guid>
+      <itunes:duration>3600</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>NRJ Paris — Vendredi 15h</title>
+      <description>Semaine 2026-W12 — Vendredi 15h00</description>
+      <pubDate>Fri, 20 Mar 2026 15:00:00 +0100</pubDate>
+      <enclosure url="https://piges.alexandremartinat.com/NRJ_Paris/Friday/15.mp3?w=2026-W12"
+                 type="audio/mpeg"
+                 length="0"/>
+      <guid isPermaLink="false">nrj-paris-2026-W12-Friday-15</guid>
+      <itunes:duration>3600</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>NRJ Paris — Vendredi 14h</title>
+      <description>Semaine 2026-W12 — Vendredi 14h00</description>
+      <pubDate>Fri, 20 Mar 2026 14:00:00 +0100</pubDate>
+      <enclosure url="https://piges.alexandremartinat.com/NRJ_Paris/Friday/14.mp3?w=2026-W12"
+                 type="audio/mpeg"
+                 length="0"/>
+      <guid isPermaLink="false">nrj-paris-2026-W12-Friday-14</guid>
+      <itunes:duration>3600</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>NRJ Paris — Vendredi 13h</title>
+      <description>Semaine 2026-W12 — Vendredi 13h00</description>
+      <pubDate>Fri, 20 Mar 2026 13:00:00 +0100</pubDate>
+      <enclosure url="https://piges.alexandremartinat.com/NRJ_Paris/Friday/13.mp3?w=2026-W12"
+                 type="audio/mpeg"
+                 length="0"/>
+      <guid isPermaLink="false">nrj-paris-2026-W12-Friday-13</guid>
+      <itunes:duration>3600</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>NRJ Paris — Vendredi 12h</title>
+      <description>Semaine 2026-W12 — Vendredi 12h00</description>
+      <pubDate>Fri, 20 Mar 2026 12:00:00 +0100</pubDate>
+      <enclosure url="https://piges.alexandremartinat.com/NRJ_Paris/Friday/12.mp3?w=2026-W12"
+                 type="audio/mpeg"
+                 length="0"/>
+      <guid isPermaLink="false">nrj-paris-2026-W12-Friday-12</guid>
+      <itunes:duration>3600</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>NRJ Paris — Vendredi 11h</title>
+      <description>Semaine 2026-W12 — Vendredi 11h00</description>
+      <pubDate>Fri, 20 Mar 2026 11:00:00 +0100</pubDate>
+      <enclosure url="https://piges.alexandremartinat.com/NRJ_Paris/Friday/11.mp3?w=2026-W12"
+                 type="audio/mpeg"
+                 length="0"/>
+      <guid isPermaLink="false">nrj-paris-2026-W12-Friday-11</guid>
+      <itunes:duration>3600</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>NRJ Paris — Vendredi 10h</title>
+      <description>Semaine 2026-W12 — Vendredi 10h00</description>
+      <pubDate>Fri, 20 Mar 2026 10:00:00 +0100</pubDate>
+      <enclosure url="https://piges.alexandremartinat.com/NRJ_Paris/Friday/10.mp3?w=2026-W12"
+                 type="audio/mpeg"
+                 length="0"/>
+      <guid isPermaLink="false">nrj-paris-2026-W12-Friday-10</guid>
+      <itunes:duration>3600</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>NRJ Paris — Vendredi 09h</title>
+      <description>Semaine 2026-W12 — Vendredi 09h00</description>
+      <pubDate>Fri, 20 Mar 2026 09:00:00 +0100</pubDate>
+      <enclosure url="https://piges.alexandremartinat.com/NRJ_Paris/Friday/09.mp3?w=2026-W12"
+                 type="audio/mpeg"
+                 length="0"/>
+      <guid isPermaLink="false">nrj-paris-2026-W12-Friday-09</guid>
+      <itunes:duration>3600</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>NRJ Paris — Vendredi 08h</title>
+      <description>Semaine 2026-W12 — Vendredi 08h00</description>
+      <pubDate>Fri, 20 Mar 2026 08:00:00 +0100</pubDate>
+      <enclosure url="https://piges.alexandremartinat.com/NRJ_Paris/Friday/08.mp3?w=2026-W12"
+                 type="audio/mpeg"
+                 length="0"/>
+      <guid isPermaLink="false">nrj-paris-2026-W12-Friday-08</guid>
+      <itunes:duration>3600</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>NRJ Paris — Vendredi 07h</title>
+      <description>Semaine 2026-W12 — Vendredi 07h00</description>
+      <pubDate>Fri, 20 Mar 2026 07:00:00 +0100</pubDate>
+      <enclosure url="https://piges.alexandremartinat.com/NRJ_Paris/Friday/07.mp3?w=2026-W12"
+                 type="audio/mpeg"
+                 length="0"/>
+      <guid isPermaLink="false">nrj-paris-2026-W12-Friday-07</guid>
+      <itunes:duration>3600</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>NRJ Paris — Vendredi 06h</title>
+      <description>Semaine 2026-W12 — Vendredi 06h00</description>
+      <pubDate>Fri, 20 Mar 2026 06:00:00 +0100</pubDate>
+      <enclosure url="https://piges.alexandremartinat.com/NRJ_Paris/Friday/06.mp3?w=2026-W12"
+                 type="audio/mpeg"
+                 length="0"/>
+      <guid isPermaLink="false">nrj-paris-2026-W12-Friday-06</guid>
+      <itunes:duration>3600</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>NRJ Paris — Vendredi 05h</title>
+      <description>Semaine 2026-W12 — Vendredi 05h00</description>
+      <pubDate>Fri, 20 Mar 2026 05:00:00 +0100</pubDate>
+      <enclosure url="https://piges.alexandremartinat.com/NRJ_Paris/Friday/05.mp3?w=2026-W12"
+                 type="audio/mpeg"
+                 length="0"/>
+      <guid isPermaLink="false">nrj-paris-2026-W12-Friday-05</guid>
+      <itunes:duration>3600</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>NRJ Paris — Vendredi 04h</title>
+      <description>Semaine 2026-W12 — Vendredi 04h00</description>
+      <pubDate>Fri, 20 Mar 2026 04:00:00 +0100</pubDate>
+      <enclosure url="https://piges.alexandremartinat.com/NRJ_Paris/Friday/04.mp3?w=2026-W12"
+                 type="audio/mpeg"
+                 length="0"/>
+      <guid isPermaLink="false">nrj-paris-2026-W12-Friday-04</guid>
+      <itunes:duration>3600</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>NRJ Paris — Vendredi 03h</title>
+      <description>Semaine 2026-W12 — Vendredi 03h00</description>
+      <pubDate>Fri, 20 Mar 2026 03:00:00 +0100</pubDate>
+      <enclosure url="https://piges.alexandremartinat.com/NRJ_Paris/Friday/03.mp3?w=2026-W12"
+                 type="audio/mpeg"
+                 length="0"/>
+      <guid isPermaLink="false">nrj-paris-2026-W12-Friday-03</guid>
+      <itunes:duration>3600</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>NRJ Paris — Vendredi 02h</title>
+      <description>Semaine 2026-W12 — Vendredi 02h00</description>
+      <pubDate>Fri, 20 Mar 2026 02:00:00 +0100</pubDate>
+      <enclosure url="https://piges.alexandremartinat.com/NRJ_Paris/Friday/02.mp3?w=2026-W12"
+                 type="audio/mpeg"
+                 length="0"/>
+      <guid isPermaLink="false">nrj-paris-2026-W12-Friday-02</guid>
+      <itunes:duration>3600</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>NRJ Paris — Vendredi 01h</title>
+      <description>Semaine 2026-W12 — Vendredi 01h00</description>
+      <pubDate>Fri, 20 Mar 2026 01:00:00 +0100</pubDate>
+      <enclosure url="https://piges.alexandremartinat.com/NRJ_Paris/Friday/01.mp3?w=2026-W12"
+                 type="audio/mpeg"
+                 length="0"/>
+      <guid isPermaLink="false">nrj-paris-2026-W12-Friday-01</guid>
+      <itunes:duration>3600</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>NRJ Paris — Vendredi 00h</title>
+      <description>Semaine 2026-W12 — Vendredi 00h00</description>
+      <pubDate>Fri, 20 Mar 2026 00:00:00 +0100</pubDate>
+      <enclosure url="https://piges.alexandremartinat.com/NRJ_Paris/Friday/00.mp3?w=2026-W12"
+                 type="audio/mpeg"
+                 length="0"/>
+      <guid isPermaLink="false">nrj-paris-2026-W12-Friday-00</guid>
+      <itunes:duration>3600</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>NRJ Paris — Jeudi 23h</title>
+      <description>Semaine 2026-W12 — Jeudi 23h00</description>
+      <pubDate>Thu, 19 Mar 2026 23:00:00 +0100</pubDate>
+      <enclosure url="https://piges.alexandremartinat.com/NRJ_Paris/Thursday/23.mp3?w=2026-W12"
+                 type="audio/mpeg"
+                 length="0"/>
+      <guid isPermaLink="false">nrj-paris-2026-W12-Thursday-23</guid>
+      <itunes:duration>3600</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>NRJ Paris — Jeudi 22h</title>
+      <description>Semaine 2026-W12 — Jeudi 22h00</description>
+      <pubDate>Thu, 19 Mar 2026 22:00:00 +0100</pubDate>
+      <enclosure url="https://piges.alexandremartinat.com/NRJ_Paris/Thursday/22.mp3?w=2026-W12"
+                 type="audio/mpeg"
+                 length="0"/>
+      <guid isPermaLink="false">nrj-paris-2026-W12-Thursday-22</guid>
+      <itunes:duration>3600</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>NRJ Paris — Jeudi 21h</title>
+      <description>Semaine 2026-W12 — Jeudi 21h00</description>
+      <pubDate>Thu, 19 Mar 2026 21:00:00 +0100</pubDate>
+      <enclosure url="https://piges.alexandremartinat.com/NRJ_Paris/Thursday/21.mp3?w=2026-W12"
+                 type="audio/mpeg"
+                 length="0"/>
+      <guid isPermaLink="false">nrj-paris-2026-W12-Thursday-21</guid>
+      <itunes:duration>3600</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>NRJ Paris — Jeudi 20h</title>
+      <description>Semaine 2026-W12 — Jeudi 20h00</description>
+      <pubDate>Thu, 19 Mar 2026 20:00:00 +0100</pubDate>
+      <enclosure url="https://piges.alexandremartinat.com/NRJ_Paris/Thursday/20.mp3?w=2026-W12"
+                 type="audio/mpeg"
+                 length="0"/>
+      <guid isPermaLink="false">nrj-paris-2026-W12-Thursday-20</guid>
+      <itunes:duration>3600</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>NRJ Paris — Jeudi 19h</title>
+      <description>Semaine 2026-W12 — Jeudi 19h00</description>
+      <pubDate>Thu, 19 Mar 2026 19:00:00 +0100</pubDate>
+      <enclosure url="https://piges.alexandremartinat.com/NRJ_Paris/Thursday/19.mp3?w=2026-W12"
+                 type="audio/mpeg"
+                 length="0"/>
+      <guid isPermaLink="false">nrj-paris-2026-W12-Thursday-19</guid>
+      <itunes:duration>3600</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>NRJ Paris — Jeudi 18h</title>
+      <description>Semaine 2026-W12 — Jeudi 18h00</description>
+      <pubDate>Thu, 19 Mar 2026 18:00:00 +0100</pubDate>
+      <enclosure url="https://piges.alexandremartinat.com/NRJ_Paris/Thursday/18.mp3?w=2026-W12"
+                 type="audio/mpeg"
+                 length="0"/>
+      <guid isPermaLink="false">nrj-paris-2026-W12-Thursday-18</guid>
+      <itunes:duration>3600</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>NRJ Paris — Jeudi 17h</title>
+      <description>Semaine 2026-W12 — Jeudi 17h00</description>
+      <pubDate>Thu, 19 Mar 2026 17:00:00 +0100</pubDate>
+      <enclosure url="https://piges.alexandremartinat.com/NRJ_Paris/Thursday/17.mp3?w=2026-W12"
+                 type="audio/mpeg"
+                 length="0"/>
+      <guid isPermaLink="false">nrj-paris-2026-W12-Thursday-17</guid>
+      <itunes:duration>3600</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>NRJ Paris — Jeudi 16h</title>
+      <description>Semaine 2026-W12 — Jeudi 16h00</description>
+      <pubDate>Thu, 19 Mar 2026 16:00:00 +0100</pubDate>
+      <enclosure url="https://piges.alexandremartinat.com/NRJ_Paris/Thursday/16.mp3?w=2026-W12"
+                 type="audio/mpeg"
+                 length="0"/>
+      <guid isPermaLink="false">nrj-paris-2026-W12-Thursday-16</guid>
+      <itunes:duration>3600</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>NRJ Paris — Jeudi 15h</title>
+      <description>Semaine 2026-W12 — Jeudi 15h00</description>
+      <pubDate>Thu, 19 Mar 2026 15:00:00 +0100</pubDate>
+      <enclosure url="https://piges.alexandremartinat.com/NRJ_Paris/Thursday/15.mp3?w=2026-W12"
+                 type="audio/mpeg"
+                 length="0"/>
+      <guid isPermaLink="false">nrj-paris-2026-W12-Thursday-15</guid>
+      <itunes:duration>3600</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>NRJ Paris — Jeudi 14h</title>
+      <description>Semaine 2026-W12 — Jeudi 14h00</description>
+      <pubDate>Thu, 19 Mar 2026 14:00:00 +0100</pubDate>
+      <enclosure url="https://piges.alexandremartinat.com/NRJ_Paris/Thursday/14.mp3?w=2026-W12"
+                 type="audio/mpeg"
+                 length="0"/>
+      <guid isPermaLink="false">nrj-paris-2026-W12-Thursday-14</guid>
+      <itunes:duration>3600</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>NRJ Paris — Jeudi 13h</title>
+      <description>Semaine 2026-W12 — Jeudi 13h00</description>
+      <pubDate>Thu, 19 Mar 2026 13:00:00 +0100</pubDate>
+      <enclosure url="https://piges.alexandremartinat.com/NRJ_Paris/Thursday/13.mp3?w=2026-W12"
+                 type="audio/mpeg"
+                 length="0"/>
+      <guid isPermaLink="false">nrj-paris-2026-W12-Thursday-13</guid>
+      <itunes:duration>3600</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>NRJ Paris — Jeudi 12h</title>
+      <description>Semaine 2026-W12 — Jeudi 12h00</description>
+      <pubDate>Thu, 19 Mar 2026 12:00:00 +0100</pubDate>
+      <enclosure url="https://piges.alexandremartinat.com/NRJ_Paris/Thursday/12.mp3?w=2026-W12"
+                 type="audio/mpeg"
+                 length="0"/>
+      <guid isPermaLink="false">nrj-paris-2026-W12-Thursday-12</guid>
+      <itunes:duration>3600</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>NRJ Paris — Jeudi 11h</title>
+      <description>Semaine 2026-W12 — Jeudi 11h00</description>
+      <pubDate>Thu, 19 Mar 2026 11:00:00 +0100</pubDate>
+      <enclosure url="https://piges.alexandremartinat.com/NRJ_Paris/Thursday/11.mp3?w=2026-W12"
+                 type="audio/mpeg"
+                 length="0"/>
+      <guid isPermaLink="false">nrj-paris-2026-W12-Thursday-11</guid>
+      <itunes:duration>3600</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>NRJ Paris — Jeudi 10h</title>
+      <description>Semaine 2026-W12 — Jeudi 10h00</description>
+      <pubDate>Thu, 19 Mar 2026 10:00:00 +0100</pubDate>
+      <enclosure url="https://piges.alexandremartinat.com/NRJ_Paris/Thursday/10.mp3?w=2026-W12"
+                 type="audio/mpeg"
+                 length="0"/>
+      <guid isPermaLink="false">nrj-paris-2026-W12-Thursday-10</guid>
+      <itunes:duration>3600</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>NRJ Paris — Jeudi 09h</title>
+      <description>Semaine 2026-W12 — Jeudi 09h00</description>
+      <pubDate>Thu, 19 Mar 2026 09:00:00 +0100</pubDate>
+      <enclosure url="https://piges.alexandremartinat.com/NRJ_Paris/Thursday/09.mp3?w=2026-W12"
+                 type="audio/mpeg"
+                 length="0"/>
+      <guid isPermaLink="false">nrj-paris-2026-W12-Thursday-09</guid>
+      <itunes:duration>3600</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>NRJ Paris — Jeudi 08h</title>
+      <description>Semaine 2026-W12 — Jeudi 08h00</description>
+      <pubDate>Thu, 19 Mar 2026 08:00:00 +0100</pubDate>
+      <enclosure url="https://piges.alexandremartinat.com/NRJ_Paris/Thursday/08.mp3?w=2026-W12"
+                 type="audio/mpeg"
+                 length="0"/>
+      <guid isPermaLink="false">nrj-paris-2026-W12-Thursday-08</guid>
+      <itunes:duration>3600</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>NRJ Paris — Jeudi 07h</title>
+      <description>Semaine 2026-W12 — Jeudi 07h00</description>
+      <pubDate>Thu, 19 Mar 2026 07:00:00 +0100</pubDate>
+      <enclosure url="https://piges.alexandremartinat.com/NRJ_Paris/Thursday/07.mp3?w=2026-W12"
+                 type="audio/mpeg"
+                 length="0"/>
+      <guid isPermaLink="false">nrj-paris-2026-W12-Thursday-07</guid>
+      <itunes:duration>3600</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>NRJ Paris — Jeudi 06h</title>
+      <description>Semaine 2026-W12 — Jeudi 06h00</description>
+      <pubDate>Thu, 19 Mar 2026 06:00:00 +0100</pubDate>
+      <enclosure url="https://piges.alexandremartinat.com/NRJ_Paris/Thursday/06.mp3?w=2026-W12"
+                 type="audio/mpeg"
+                 length="0"/>
+      <guid isPermaLink="false">nrj-paris-2026-W12-Thursday-06</guid>
+      <itunes:duration>3600</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>NRJ Paris — Jeudi 05h</title>
+      <description>Semaine 2026-W12 — Jeudi 05h00</description>
+      <pubDate>Thu, 19 Mar 2026 05:00:00 +0100</pubDate>
+      <enclosure url="https://piges.alexandremartinat.com/NRJ_Paris/Thursday/05.mp3?w=2026-W12"
+                 type="audio/mpeg"
+                 length="0"/>
+      <guid isPermaLink="false">nrj-paris-2026-W12-Thursday-05</guid>
+      <itunes:duration>3600</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>NRJ Paris — Jeudi 04h</title>
+      <description>Semaine 2026-W12 — Jeudi 04h00</description>
+      <pubDate>Thu, 19 Mar 2026 04:00:00 +0100</pubDate>
+      <enclosure url="https://piges.alexandremartinat.com/NRJ_Paris/Thursday/04.mp3?w=2026-W12"
+                 type="audio/mpeg"
+                 length="0"/>
+      <guid isPermaLink="false">nrj-paris-2026-W12-Thursday-04</guid>
+      <itunes:duration>3600</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>NRJ Paris — Jeudi 03h</title>
+      <description>Semaine 2026-W12 — Jeudi 03h00</description>
+      <pubDate>Thu, 19 Mar 2026 03:00:00 +0100</pubDate>
+      <enclosure url="https://piges.alexandremartinat.com/NRJ_Paris/Thursday/03.mp3?w=2026-W12"
+                 type="audio/mpeg"
+                 length="0"/>
+      <guid isPermaLink="false">nrj-paris-2026-W12-Thursday-03</guid>
+      <itunes:duration>3600</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>NRJ Paris — Jeudi 02h</title>
+      <description>Semaine 2026-W12 — Jeudi 02h00</description>
+      <pubDate>Thu, 19 Mar 2026 02:00:00 +0100</pubDate>
+      <enclosure url="https://piges.alexandremartinat.com/NRJ_Paris/Thursday/02.mp3?w=2026-W12"
+                 type="audio/mpeg"
+                 length="0"/>
+      <guid isPermaLink="false">nrj-paris-2026-W12-Thursday-02</guid>
+      <itunes:duration>3600</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>NRJ Paris — Jeudi 01h</title>
+      <description>Semaine 2026-W12 — Jeudi 01h00</description>
+      <pubDate>Thu, 19 Mar 2026 01:00:00 +0100</pubDate>
+      <enclosure url="https://piges.alexandremartinat.com/NRJ_Paris/Thursday/01.mp3?w=2026-W12"
+                 type="audio/mpeg"
+                 length="0"/>
+      <guid isPermaLink="false">nrj-paris-2026-W12-Thursday-01</guid>
+      <itunes:duration>3600</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>NRJ Paris — Jeudi 00h</title>
+      <description>Semaine 2026-W12 — Jeudi 00h00</description>
+      <pubDate>Thu, 19 Mar 2026 00:00:00 +0100</pubDate>
+      <enclosure url="https://piges.alexandremartinat.com/NRJ_Paris/Thursday/00.mp3?w=2026-W12"
+                 type="audio/mpeg"
+                 length="0"/>
+      <guid isPermaLink="false">nrj-paris-2026-W12-Thursday-00</guid>
+      <itunes:duration>3600</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>NRJ Paris — Mercredi 23h</title>
+      <description>Semaine 2026-W12 — Mercredi 23h00</description>
+      <pubDate>Wed, 18 Mar 2026 23:00:00 +0100</pubDate>
+      <enclosure url="https://piges.alexandremartinat.com/NRJ_Paris/Wednesday/23.mp3?w=2026-W12"
+                 type="audio/mpeg"
+                 length="0"/>
+      <guid isPermaLink="false">nrj-paris-2026-W12-Wednesday-23</guid>
+      <itunes:duration>3600</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>NRJ Paris — Mercredi 22h</title>
+      <description>Semaine 2026-W12 — Mercredi 22h00</description>
+      <pubDate>Wed, 18 Mar 2026 22:00:00 +0100</pubDate>
+      <enclosure url="https://piges.alexandremartinat.com/NRJ_Paris/Wednesday/22.mp3?w=2026-W12"
+                 type="audio/mpeg"
+                 length="0"/>
+      <guid isPermaLink="false">nrj-paris-2026-W12-Wednesday-22</guid>
+      <itunes:duration>3600</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>NRJ Paris — Mercredi 21h</title>
+      <description>Semaine 2026-W12 — Mercredi 21h00</description>
+      <pubDate>Wed, 18 Mar 2026 21:00:00 +0100</pubDate>
+      <enclosure url="https://piges.alexandremartinat.com/NRJ_Paris/Wednesday/21.mp3?w=2026-W12"
+                 type="audio/mpeg"
+                 length="0"/>
+      <guid isPermaLink="false">nrj-paris-2026-W12-Wednesday-21</guid>
+      <itunes:duration>3600</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>NRJ Paris — Mercredi 20h</title>
+      <description>Semaine 2026-W12 — Mercredi 20h00</description>
+      <pubDate>Wed, 18 Mar 2026 20:00:00 +0100</pubDate>
+      <enclosure url="https://piges.alexandremartinat.com/NRJ_Paris/Wednesday/20.mp3?w=2026-W12"
+                 type="audio/mpeg"
+                 length="0"/>
+      <guid isPermaLink="false">nrj-paris-2026-W12-Wednesday-20</guid>
+      <itunes:duration>3600</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>NRJ Paris — Mercredi 19h</title>
+      <description>Semaine 2026-W12 — Mercredi 19h00</description>
+      <pubDate>Wed, 18 Mar 2026 19:00:00 +0100</pubDate>
+      <enclosure url="https://piges.alexandremartinat.com/NRJ_Paris/Wednesday/19.mp3?w=2026-W12"
+                 type="audio/mpeg"
+                 length="0"/>
+      <guid isPermaLink="false">nrj-paris-2026-W12-Wednesday-19</guid>
+      <itunes:duration>3600</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>NRJ Paris — Mercredi 18h</title>
+      <description>Semaine 2026-W12 — Mercredi 18h00</description>
+      <pubDate>Wed, 18 Mar 2026 18:00:00 +0100</pubDate>
+      <enclosure url="https://piges.alexandremartinat.com/NRJ_Paris/Wednesday/18.mp3?w=2026-W12"
+                 type="audio/mpeg"
+                 length="0"/>
+      <guid isPermaLink="false">nrj-paris-2026-W12-Wednesday-18</guid>
+      <itunes:duration>3600</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>NRJ Paris — Mercredi 17h</title>
+      <description>Semaine 2026-W12 — Mercredi 17h00</description>
+      <pubDate>Wed, 18 Mar 2026 17:00:00 +0100</pubDate>
+      <enclosure url="https://piges.alexandremartinat.com/NRJ_Paris/Wednesday/17.mp3?w=2026-W12"
+                 type="audio/mpeg"
+                 length="0"/>
+      <guid isPermaLink="false">nrj-paris-2026-W12-Wednesday-17</guid>
+      <itunes:duration>3600</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>NRJ Paris — Mercredi 16h</title>
+      <description>Semaine 2026-W12 — Mercredi 16h00</description>
+      <pubDate>Wed, 18 Mar 2026 16:00:00 +0100</pubDate>
+      <enclosure url="https://piges.alexandremartinat.com/NRJ_Paris/Wednesday/16.mp3?w=2026-W12"
+                 type="audio/mpeg"
+                 length="0"/>
+      <guid isPermaLink="false">nrj-paris-2026-W12-Wednesday-16</guid>
+      <itunes:duration>3600</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>NRJ Paris — Mercredi 15h</title>
+      <description>Semaine 2026-W12 — Mercredi 15h00</description>
+      <pubDate>Wed, 18 Mar 2026 15:00:00 +0100</pubDate>
+      <enclosure url="https://piges.alexandremartinat.com/NRJ_Paris/Wednesday/15.mp3?w=2026-W12"
+                 type="audio/mpeg"
+                 length="0"/>
+      <guid isPermaLink="false">nrj-paris-2026-W12-Wednesday-15</guid>
+      <itunes:duration>3600</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>NRJ Paris — Mercredi 14h</title>
+      <description>Semaine 2026-W12 — Mercredi 14h00</description>
+      <pubDate>Wed, 18 Mar 2026 14:00:00 +0100</pubDate>
+      <enclosure url="https://piges.alexandremartinat.com/NRJ_Paris/Wednesday/14.mp3?w=2026-W12"
+                 type="audio/mpeg"
+                 length="0"/>
+      <guid isPermaLink="false">nrj-paris-2026-W12-Wednesday-14</guid>
+      <itunes:duration>3600</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>NRJ Paris — Mercredi 13h</title>
+      <description>Semaine 2026-W12 — Mercredi 13h00</description>
+      <pubDate>Wed, 18 Mar 2026 13:00:00 +0100</pubDate>
+      <enclosure url="https://piges.alexandremartinat.com/NRJ_Paris/Wednesday/13.mp3?w=2026-W12"
+                 type="audio/mpeg"
+                 length="0"/>
+      <guid isPermaLink="false">nrj-paris-2026-W12-Wednesday-13</guid>
+      <itunes:duration>3600</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>NRJ Paris — Mercredi 12h</title>
+      <description>Semaine 2026-W12 — Mercredi 12h00</description>
+      <pubDate>Wed, 18 Mar 2026 12:00:00 +0100</pubDate>
+      <enclosure url="https://piges.alexandremartinat.com/NRJ_Paris/Wednesday/12.mp3?w=2026-W12"
+                 type="audio/mpeg"
+                 length="0"/>
+      <guid isPermaLink="false">nrj-paris-2026-W12-Wednesday-12</guid>
+      <itunes:duration>3600</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>NRJ Paris — Mercredi 11h</title>
+      <description>Semaine 2026-W12 — Mercredi 11h00</description>
+      <pubDate>Wed, 18 Mar 2026 11:00:00 +0100</pubDate>
+      <enclosure url="https://piges.alexandremartinat.com/NRJ_Paris/Wednesday/11.mp3?w=2026-W12"
+                 type="audio/mpeg"
+                 length="0"/>
+      <guid isPermaLink="false">nrj-paris-2026-W12-Wednesday-11</guid>
+      <itunes:duration>3600</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>NRJ Paris — Mercredi 10h</title>
+      <description>Semaine 2026-W12 — Mercredi 10h00</description>
+      <pubDate>Wed, 18 Mar 2026 10:00:00 +0100</pubDate>
+      <enclosure url="https://piges.alexandremartinat.com/NRJ_Paris/Wednesday/10.mp3?w=2026-W12"
+                 type="audio/mpeg"
+                 length="0"/>
+      <guid isPermaLink="false">nrj-paris-2026-W12-Wednesday-10</guid>
+      <itunes:duration>3600</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>NRJ Paris — Mercredi 09h</title>
+      <description>Semaine 2026-W12 — Mercredi 09h00</description>
+      <pubDate>Wed, 18 Mar 2026 09:00:00 +0100</pubDate>
+      <enclosure url="https://piges.alexandremartinat.com/NRJ_Paris/Wednesday/09.mp3?w=2026-W12"
+                 type="audio/mpeg"
+                 length="0"/>
+      <guid isPermaLink="false">nrj-paris-2026-W12-Wednesday-09</guid>
+      <itunes:duration>3600</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>NRJ Paris — Mercredi 08h</title>
+      <description>Semaine 2026-W12 — Mercredi 08h00</description>
+      <pubDate>Wed, 18 Mar 2026 08:00:00 +0100</pubDate>
+      <enclosure url="https://piges.alexandremartinat.com/NRJ_Paris/Wednesday/08.mp3?w=2026-W12"
+                 type="audio/mpeg"
+                 length="0"/>
+      <guid isPermaLink="false">nrj-paris-2026-W12-Wednesday-08</guid>
+      <itunes:duration>3600</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>NRJ Paris — Mercredi 07h</title>
+      <description>Semaine 2026-W12 — Mercredi 07h00</description>
+      <pubDate>Wed, 18 Mar 2026 07:00:00 +0100</pubDate>
+      <enclosure url="https://piges.alexandremartinat.com/NRJ_Paris/Wednesday/07.mp3?w=2026-W12"
+                 type="audio/mpeg"
+                 length="0"/>
+      <guid isPermaLink="false">nrj-paris-2026-W12-Wednesday-07</guid>
+      <itunes:duration>3600</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>NRJ Paris — Mercredi 06h</title>
+      <description>Semaine 2026-W12 — Mercredi 06h00</description>
+      <pubDate>Wed, 18 Mar 2026 06:00:00 +0100</pubDate>
+      <enclosure url="https://piges.alexandremartinat.com/NRJ_Paris/Wednesday/06.mp3?w=2026-W12"
+                 type="audio/mpeg"
+                 length="0"/>
+      <guid isPermaLink="false">nrj-paris-2026-W12-Wednesday-06</guid>
+      <itunes:duration>3600</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>NRJ Paris — Mercredi 05h</title>
+      <description>Semaine 2026-W12 — Mercredi 05h00</description>
+      <pubDate>Wed, 18 Mar 2026 05:00:00 +0100</pubDate>
+      <enclosure url="https://piges.alexandremartinat.com/NRJ_Paris/Wednesday/05.mp3?w=2026-W12"
+                 type="audio/mpeg"
+                 length="0"/>
+      <guid isPermaLink="false">nrj-paris-2026-W12-Wednesday-05</guid>
+      <itunes:duration>3600</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>NRJ Paris — Mercredi 04h</title>
+      <description>Semaine 2026-W12 — Mercredi 04h00</description>
+      <pubDate>Wed, 18 Mar 2026 04:00:00 +0100</pubDate>
+      <enclosure url="https://piges.alexandremartinat.com/NRJ_Paris/Wednesday/04.mp3?w=2026-W12"
+                 type="audio/mpeg"
+                 length="0"/>
+      <guid isPermaLink="false">nrj-paris-2026-W12-Wednesday-04</guid>
+      <itunes:duration>3600</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>NRJ Paris — Mercredi 03h</title>
+      <description>Semaine 2026-W12 — Mercredi 03h00</description>
+      <pubDate>Wed, 18 Mar 2026 03:00:00 +0100</pubDate>
+      <enclosure url="https://piges.alexandremartinat.com/NRJ_Paris/Wednesday/03.mp3?w=2026-W12"
+                 type="audio/mpeg"
+                 length="0"/>
+      <guid isPermaLink="false">nrj-paris-2026-W12-Wednesday-03</guid>
+      <itunes:duration>3600</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>NRJ Paris — Mercredi 02h</title>
+      <description>Semaine 2026-W12 — Mercredi 02h00</description>
+      <pubDate>Wed, 18 Mar 2026 02:00:00 +0100</pubDate>
+      <enclosure url="https://piges.alexandremartinat.com/NRJ_Paris/Wednesday/02.mp3?w=2026-W12"
+                 type="audio/mpeg"
+                 length="0"/>
+      <guid isPermaLink="false">nrj-paris-2026-W12-Wednesday-02</guid>
+      <itunes:duration>3600</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>NRJ Paris — Mercredi 01h</title>
+      <description>Semaine 2026-W12 — Mercredi 01h00</description>
+      <pubDate>Wed, 18 Mar 2026 01:00:00 +0100</pubDate>
+      <enclosure url="https://piges.alexandremartinat.com/NRJ_Paris/Wednesday/01.mp3?w=2026-W12"
+                 type="audio/mpeg"
+                 length="0"/>
+      <guid isPermaLink="false">nrj-paris-2026-W12-Wednesday-01</guid>
+      <itunes:duration>3600</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>NRJ Paris — Mercredi 00h</title>
+      <description>Semaine 2026-W12 — Mercredi 00h00</description>
+      <pubDate>Wed, 18 Mar 2026 00:00:00 +0100</pubDate>
+      <enclosure url="https://piges.alexandremartinat.com/NRJ_Paris/Wednesday/00.mp3?w=2026-W12"
+                 type="audio/mpeg"
+                 length="0"/>
+      <guid isPermaLink="false">nrj-paris-2026-W12-Wednesday-00</guid>
+      <itunes:duration>3600</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>NRJ Paris — Mardi 23h</title>
+      <description>Semaine 2026-W12 — Mardi 23h00</description>
+      <pubDate>Tue, 17 Mar 2026 23:00:00 +0100</pubDate>
+      <enclosure url="https://piges.alexandremartinat.com/NRJ_Paris/Tuesday/23.mp3?w=2026-W12"
+                 type="audio/mpeg"
+                 length="0"/>
+      <guid isPermaLink="false">nrj-paris-2026-W12-Tuesday-23</guid>
+      <itunes:duration>3600</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>NRJ Paris — Mardi 22h</title>
+      <description>Semaine 2026-W12 — Mardi 22h00</description>
+      <pubDate>Tue, 17 Mar 2026 22:00:00 +0100</pubDate>
+      <enclosure url="https://piges.alexandremartinat.com/NRJ_Paris/Tuesday/22.mp3?w=2026-W12"
+                 type="audio/mpeg"
+                 length="0"/>
+      <guid isPermaLink="false">nrj-paris-2026-W12-Tuesday-22</guid>
+      <itunes:duration>3600</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>NRJ Paris — Mardi 21h</title>
+      <description>Semaine 2026-W12 — Mardi 21h00</description>
+      <pubDate>Tue, 17 Mar 2026 21:00:00 +0100</pubDate>
+      <enclosure url="https://piges.alexandremartinat.com/NRJ_Paris/Tuesday/21.mp3?w=2026-W12"
+                 type="audio/mpeg"
+                 length="0"/>
+      <guid isPermaLink="false">nrj-paris-2026-W12-Tuesday-21</guid>
+      <itunes:duration>3600</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>NRJ Paris — Mardi 20h</title>
+      <description>Semaine 2026-W12 — Mardi 20h00</description>
+      <pubDate>Tue, 17 Mar 2026 20:00:00 +0100</pubDate>
+      <enclosure url="https://piges.alexandremartinat.com/NRJ_Paris/Tuesday/20.mp3?w=2026-W12"
+                 type="audio/mpeg"
+                 length="0"/>
+      <guid isPermaLink="false">nrj-paris-2026-W12-Tuesday-20</guid>
+      <itunes:duration>3600</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>NRJ Paris — Mardi 19h</title>
+      <description>Semaine 2026-W12 — Mardi 19h00</description>
+      <pubDate>Tue, 17 Mar 2026 19:00:00 +0100</pubDate>
+      <enclosure url="https://piges.alexandremartinat.com/NRJ_Paris/Tuesday/19.mp3?w=2026-W12"
+                 type="audio/mpeg"
+                 length="0"/>
+      <guid isPermaLink="false">nrj-paris-2026-W12-Tuesday-19</guid>
+      <itunes:duration>3600</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>NRJ Paris — Mardi 18h</title>
+      <description>Semaine 2026-W12 — Mardi 18h00</description>
+      <pubDate>Tue, 17 Mar 2026 18:00:00 +0100</pubDate>
+      <enclosure url="https://piges.alexandremartinat.com/NRJ_Paris/Tuesday/18.mp3?w=2026-W12"
+                 type="audio/mpeg"
+                 length="0"/>
+      <guid isPermaLink="false">nrj-paris-2026-W12-Tuesday-18</guid>
+      <itunes:duration>3600</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>NRJ Paris — Mardi 17h</title>
+      <description>Semaine 2026-W12 — Mardi 17h00</description>
+      <pubDate>Tue, 17 Mar 2026 17:00:00 +0100</pubDate>
+      <enclosure url="https://piges.alexandremartinat.com/NRJ_Paris/Tuesday/17.mp3?w=2026-W12"
+                 type="audio/mpeg"
+                 length="0"/>
+      <guid isPermaLink="false">nrj-paris-2026-W12-Tuesday-17</guid>
+      <itunes:duration>3600</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>NRJ Paris — Mardi 16h</title>
+      <description>Semaine 2026-W12 — Mardi 16h00</description>
+      <pubDate>Tue, 17 Mar 2026 16:00:00 +0100</pubDate>
+      <enclosure url="https://piges.alexandremartinat.com/NRJ_Paris/Tuesday/16.mp3?w=2026-W12"
+                 type="audio/mpeg"
+                 length="0"/>
+      <guid isPermaLink="false">nrj-paris-2026-W12-Tuesday-16</guid>
+      <itunes:duration>3600</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>NRJ Paris — Mardi 15h</title>
+      <description>Semaine 2026-W12 — Mardi 15h00</description>
+      <pubDate>Tue, 17 Mar 2026 15:00:00 +0100</pubDate>
+      <enclosure url="https://piges.alexandremartinat.com/NRJ_Paris/Tuesday/15.mp3?w=2026-W12"
+                 type="audio/mpeg"
+                 length="0"/>
+      <guid isPermaLink="false">nrj-paris-2026-W12-Tuesday-15</guid>
+      <itunes:duration>3600</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>NRJ Paris — Mardi 14h</title>
+      <description>Semaine 2026-W12 — Mardi 14h00</description>
+      <pubDate>Tue, 17 Mar 2026 14:00:00 +0100</pubDate>
+      <enclosure url="https://piges.alexandremartinat.com/NRJ_Paris/Tuesday/14.mp3?w=2026-W12"
+                 type="audio/mpeg"
+                 length="0"/>
+      <guid isPermaLink="false">nrj-paris-2026-W12-Tuesday-14</guid>
+      <itunes:duration>3600</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>NRJ Paris — Mardi 13h</title>
+      <description>Semaine 2026-W12 — Mardi 13h00</description>
+      <pubDate>Tue, 17 Mar 2026 13:00:00 +0100</pubDate>
+      <enclosure url="https://piges.alexandremartinat.com/NRJ_Paris/Tuesday/13.mp3?w=2026-W12"
+                 type="audio/mpeg"
+                 length="0"/>
+      <guid isPermaLink="false">nrj-paris-2026-W12-Tuesday-13</guid>
+      <itunes:duration>3600</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>NRJ Paris — Mardi 12h</title>
+      <description>Semaine 2026-W12 — Mardi 12h00</description>
+      <pubDate>Tue, 17 Mar 2026 12:00:00 +0100</pubDate>
+      <enclosure url="https://piges.alexandremartinat.com/NRJ_Paris/Tuesday/12.mp3?w=2026-W12"
+                 type="audio/mpeg"
+                 length="0"/>
+      <guid isPermaLink="false">nrj-paris-2026-W12-Tuesday-12</guid>
+      <itunes:duration>3600</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>NRJ Paris — Mardi 11h</title>
+      <description>Semaine 2026-W12 — Mardi 11h00</description>
+      <pubDate>Tue, 17 Mar 2026 11:00:00 +0100</pubDate>
+      <enclosure url="https://piges.alexandremartinat.com/NRJ_Paris/Tuesday/11.mp3?w=2026-W12"
+                 type="audio/mpeg"
+                 length="0"/>
+      <guid isPermaLink="false">nrj-paris-2026-W12-Tuesday-11</guid>
+      <itunes:duration>3600</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>NRJ Paris — Mardi 10h</title>
+      <description>Semaine 2026-W12 — Mardi 10h00</description>
+      <pubDate>Tue, 17 Mar 2026 10:00:00 +0100</pubDate>
+      <enclosure url="https://piges.alexandremartinat.com/NRJ_Paris/Tuesday/10.mp3?w=2026-W12"
+                 type="audio/mpeg"
+                 length="0"/>
+      <guid isPermaLink="false">nrj-paris-2026-W12-Tuesday-10</guid>
+      <itunes:duration>3600</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>NRJ Paris — Mardi 09h</title>
+      <description>Semaine 2026-W12 — Mardi 09h00</description>
+      <pubDate>Tue, 17 Mar 2026 09:00:00 +0100</pubDate>
+      <enclosure url="https://piges.alexandremartinat.com/NRJ_Paris/Tuesday/09.mp3?w=2026-W12"
+                 type="audio/mpeg"
+                 length="0"/>
+      <guid isPermaLink="false">nrj-paris-2026-W12-Tuesday-09</guid>
+      <itunes:duration>3600</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>NRJ Paris — Mardi 08h</title>
+      <description>Semaine 2026-W12 — Mardi 08h00</description>
+      <pubDate>Tue, 17 Mar 2026 08:00:00 +0100</pubDate>
+      <enclosure url="https://piges.alexandremartinat.com/NRJ_Paris/Tuesday/08.mp3?w=2026-W12"
+                 type="audio/mpeg"
+                 length="0"/>
+      <guid isPermaLink="false">nrj-paris-2026-W12-Tuesday-08</guid>
+      <itunes:duration>3600</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>NRJ Paris — Mardi 07h</title>
+      <description>Semaine 2026-W12 — Mardi 07h00</description>
+      <pubDate>Tue, 17 Mar 2026 07:00:00 +0100</pubDate>
+      <enclosure url="https://piges.alexandremartinat.com/NRJ_Paris/Tuesday/07.mp3?w=2026-W12"
+                 type="audio/mpeg"
+                 length="0"/>
+      <guid isPermaLink="false">nrj-paris-2026-W12-Tuesday-07</guid>
+      <itunes:duration>3600</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>NRJ Paris — Mardi 06h</title>
+      <description>Semaine 2026-W12 — Mardi 06h00</description>
+      <pubDate>Tue, 17 Mar 2026 06:00:00 +0100</pubDate>
+      <enclosure url="https://piges.alexandremartinat.com/NRJ_Paris/Tuesday/06.mp3?w=2026-W12"
+                 type="audio/mpeg"
+                 length="0"/>
+      <guid isPermaLink="false">nrj-paris-2026-W12-Tuesday-06</guid>
+      <itunes:duration>3600</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>NRJ Paris — Mardi 05h</title>
+      <description>Semaine 2026-W12 — Mardi 05h00</description>
+      <pubDate>Tue, 17 Mar 2026 05:00:00 +0100</pubDate>
+      <enclosure url="https://piges.alexandremartinat.com/NRJ_Paris/Tuesday/05.mp3?w=2026-W12"
+                 type="audio/mpeg"
+                 length="0"/>
+      <guid isPermaLink="false">nrj-paris-2026-W12-Tuesday-05</guid>
+      <itunes:duration>3600</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>NRJ Paris — Mardi 04h</title>
+      <description>Semaine 2026-W12 — Mardi 04h00</description>
+      <pubDate>Tue, 17 Mar 2026 04:00:00 +0100</pubDate>
+      <enclosure url="https://piges.alexandremartinat.com/NRJ_Paris/Tuesday/04.mp3?w=2026-W12"
+                 type="audio/mpeg"
+                 length="0"/>
+      <guid isPermaLink="false">nrj-paris-2026-W12-Tuesday-04</guid>
+      <itunes:duration>3600</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>NRJ Paris — Mardi 03h</title>
+      <description>Semaine 2026-W12 — Mardi 03h00</description>
+      <pubDate>Tue, 17 Mar 2026 03:00:00 +0100</pubDate>
+      <enclosure url="https://piges.alexandremartinat.com/NRJ_Paris/Tuesday/03.mp3?w=2026-W12"
+                 type="audio/mpeg"
+                 length="0"/>
+      <guid isPermaLink="false">nrj-paris-2026-W12-Tuesday-03</guid>
+      <itunes:duration>3600</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>NRJ Paris — Mardi 02h</title>
+      <description>Semaine 2026-W12 — Mardi 02h00</description>
+      <pubDate>Tue, 17 Mar 2026 02:00:00 +0100</pubDate>
+      <enclosure url="https://piges.alexandremartinat.com/NRJ_Paris/Tuesday/02.mp3?w=2026-W12"
+                 type="audio/mpeg"
+                 length="0"/>
+      <guid isPermaLink="false">nrj-paris-2026-W12-Tuesday-02</guid>
+      <itunes:duration>3600</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>NRJ Paris — Mardi 01h</title>
+      <description>Semaine 2026-W12 — Mardi 01h00</description>
+      <pubDate>Tue, 17 Mar 2026 01:00:00 +0100</pubDate>
+      <enclosure url="https://piges.alexandremartinat.com/NRJ_Paris/Tuesday/01.mp3?w=2026-W12"
+                 type="audio/mpeg"
+                 length="0"/>
+      <guid isPermaLink="false">nrj-paris-2026-W12-Tuesday-01</guid>
+      <itunes:duration>3600</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>NRJ Paris — Mardi 00h</title>
+      <description>Semaine 2026-W12 — Mardi 00h00</description>
+      <pubDate>Tue, 17 Mar 2026 00:00:00 +0100</pubDate>
+      <enclosure url="https://piges.alexandremartinat.com/NRJ_Paris/Tuesday/00.mp3?w=2026-W12"
+                 type="audio/mpeg"
+                 length="0"/>
+      <guid isPermaLink="false">nrj-paris-2026-W12-Tuesday-00</guid>
+      <itunes:duration>3600</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>NRJ Paris — Lundi 23h</title>
+      <description>Semaine 2026-W12 — Lundi 23h00</description>
+      <pubDate>Mon, 16 Mar 2026 23:00:00 +0100</pubDate>
+      <enclosure url="https://piges.alexandremartinat.com/NRJ_Paris/Monday/23.mp3?w=2026-W12"
+                 type="audio/mpeg"
+                 length="0"/>
+      <guid isPermaLink="false">nrj-paris-2026-W12-Monday-23</guid>
+      <itunes:duration>3600</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>NRJ Paris — Lundi 22h</title>
+      <description>Semaine 2026-W12 — Lundi 22h00</description>
+      <pubDate>Mon, 16 Mar 2026 22:00:00 +0100</pubDate>
+      <enclosure url="https://piges.alexandremartinat.com/NRJ_Paris/Monday/22.mp3?w=2026-W12"
+                 type="audio/mpeg"
+                 length="0"/>
+      <guid isPermaLink="false">nrj-paris-2026-W12-Monday-22</guid>
+      <itunes:duration>3600</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>NRJ Paris — Lundi 21h</title>
+      <description>Semaine 2026-W12 — Lundi 21h00</description>
+      <pubDate>Mon, 16 Mar 2026 21:00:00 +0100</pubDate>
+      <enclosure url="https://piges.alexandremartinat.com/NRJ_Paris/Monday/21.mp3?w=2026-W12"
+                 type="audio/mpeg"
+                 length="0"/>
+      <guid isPermaLink="false">nrj-paris-2026-W12-Monday-21</guid>
+      <itunes:duration>3600</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>NRJ Paris — Lundi 20h</title>
+      <description>Semaine 2026-W12 — Lundi 20h00</description>
+      <pubDate>Mon, 16 Mar 2026 20:00:00 +0100</pubDate>
+      <enclosure url="https://piges.alexandremartinat.com/NRJ_Paris/Monday/20.mp3?w=2026-W12"
+                 type="audio/mpeg"
+                 length="0"/>
+      <guid isPermaLink="false">nrj-paris-2026-W12-Monday-20</guid>
+      <itunes:duration>3600</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>NRJ Paris — Lundi 19h</title>
+      <description>Semaine 2026-W12 — Lundi 19h00</description>
+      <pubDate>Mon, 16 Mar 2026 19:00:00 +0100</pubDate>
+      <enclosure url="https://piges.alexandremartinat.com/NRJ_Paris/Monday/19.mp3?w=2026-W12"
+                 type="audio/mpeg"
+                 length="0"/>
+      <guid isPermaLink="false">nrj-paris-2026-W12-Monday-19</guid>
+      <itunes:duration>3600</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>NRJ Paris — Lundi 18h</title>
+      <description>Semaine 2026-W12 — Lundi 18h00</description>
+      <pubDate>Mon, 16 Mar 2026 18:00:00 +0100</pubDate>
+      <enclosure url="https://piges.alexandremartinat.com/NRJ_Paris/Monday/18.mp3?w=2026-W12"
+                 type="audio/mpeg"
+                 length="0"/>
+      <guid isPermaLink="false">nrj-paris-2026-W12-Monday-18</guid>
+      <itunes:duration>3600</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>NRJ Paris — Lundi 17h</title>
+      <description>Semaine 2026-W12 — Lundi 17h00</description>
+      <pubDate>Mon, 16 Mar 2026 17:00:00 +0100</pubDate>
+      <enclosure url="https://piges.alexandremartinat.com/NRJ_Paris/Monday/17.mp3?w=2026-W12"
+                 type="audio/mpeg"
+                 length="0"/>
+      <guid isPermaLink="false">nrj-paris-2026-W12-Monday-17</guid>
+      <itunes:duration>3600</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>NRJ Paris — Lundi 16h</title>
+      <description>Semaine 2026-W12 — Lundi 16h00</description>
+      <pubDate>Mon, 16 Mar 2026 16:00:00 +0100</pubDate>
+      <enclosure url="https://piges.alexandremartinat.com/NRJ_Paris/Monday/16.mp3?w=2026-W12"
+                 type="audio/mpeg"
+                 length="0"/>
+      <guid isPermaLink="false">nrj-paris-2026-W12-Monday-16</guid>
+      <itunes:duration>3600</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>NRJ Paris — Lundi 15h</title>
+      <description>Semaine 2026-W12 — Lundi 15h00</description>
+      <pubDate>Mon, 16 Mar 2026 15:00:00 +0100</pubDate>
+      <enclosure url="https://piges.alexandremartinat.com/NRJ_Paris/Monday/15.mp3?w=2026-W12"
+                 type="audio/mpeg"
+                 length="0"/>
+      <guid isPermaLink="false">nrj-paris-2026-W12-Monday-15</guid>
+      <itunes:duration>3600</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>NRJ Paris — Lundi 14h</title>
+      <description>Semaine 2026-W12 — Lundi 14h00</description>
+      <pubDate>Mon, 16 Mar 2026 14:00:00 +0100</pubDate>
+      <enclosure url="https://piges.alexandremartinat.com/NRJ_Paris/Monday/14.mp3?w=2026-W12"
+                 type="audio/mpeg"
+                 length="0"/>
+      <guid isPermaLink="false">nrj-paris-2026-W12-Monday-14</guid>
+      <itunes:duration>3600</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>NRJ Paris — Lundi 13h</title>
+      <description>Semaine 2026-W12 — Lundi 13h00</description>
+      <pubDate>Mon, 16 Mar 2026 13:00:00 +0100</pubDate>
+      <enclosure url="https://piges.alexandremartinat.com/NRJ_Paris/Monday/13.mp3?w=2026-W12"
+                 type="audio/mpeg"
+                 length="0"/>
+      <guid isPermaLink="false">nrj-paris-2026-W12-Monday-13</guid>
+      <itunes:duration>3600</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>NRJ Paris — Lundi 12h</title>
+      <description>Semaine 2026-W12 — Lundi 12h00</description>
+      <pubDate>Mon, 16 Mar 2026 12:00:00 +0100</pubDate>
+      <enclosure url="https://piges.alexandremartinat.com/NRJ_Paris/Monday/12.mp3?w=2026-W12"
+                 type="audio/mpeg"
+                 length="0"/>
+      <guid isPermaLink="false">nrj-paris-2026-W12-Monday-12</guid>
+      <itunes:duration>3600</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>NRJ Paris — Lundi 11h</title>
+      <description>Semaine 2026-W12 — Lundi 11h00</description>
+      <pubDate>Mon, 16 Mar 2026 11:00:00 +0100</pubDate>
+      <enclosure url="https://piges.alexandremartinat.com/NRJ_Paris/Monday/11.mp3?w=2026-W12"
+                 type="audio/mpeg"
+                 length="0"/>
+      <guid isPermaLink="false">nrj-paris-2026-W12-Monday-11</guid>
+      <itunes:duration>3600</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>NRJ Paris — Lundi 10h</title>
+      <description>Semaine 2026-W12 — Lundi 10h00</description>
+      <pubDate>Mon, 16 Mar 2026 10:00:00 +0100</pubDate>
+      <enclosure url="https://piges.alexandremartinat.com/NRJ_Paris/Monday/10.mp3?w=2026-W12"
+                 type="audio/mpeg"
+                 length="0"/>
+      <guid isPermaLink="false">nrj-paris-2026-W12-Monday-10</guid>
+      <itunes:duration>3600</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>NRJ Paris — Lundi 09h</title>
+      <description>Semaine 2026-W12 — Lundi 09h00</description>
+      <pubDate>Mon, 16 Mar 2026 09:00:00 +0100</pubDate>
+      <enclosure url="https://piges.alexandremartinat.com/NRJ_Paris/Monday/09.mp3?w=2026-W12"
+                 type="audio/mpeg"
+                 length="0"/>
+      <guid isPermaLink="false">nrj-paris-2026-W12-Monday-09</guid>
+      <itunes:duration>3600</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>NRJ Paris — Lundi 08h</title>
+      <description>Semaine 2026-W12 — Lundi 08h00</description>
+      <pubDate>Mon, 16 Mar 2026 08:00:00 +0100</pubDate>
+      <enclosure url="https://piges.alexandremartinat.com/NRJ_Paris/Monday/08.mp3?w=2026-W12"
+                 type="audio/mpeg"
+                 length="0"/>
+      <guid isPermaLink="false">nrj-paris-2026-W12-Monday-08</guid>
+      <itunes:duration>3600</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>NRJ Paris — Lundi 07h</title>
+      <description>Semaine 2026-W12 — Lundi 07h00</description>
+      <pubDate>Mon, 16 Mar 2026 07:00:00 +0100</pubDate>
+      <enclosure url="https://piges.alexandremartinat.com/NRJ_Paris/Monday/07.mp3?w=2026-W12"
+                 type="audio/mpeg"
+                 length="0"/>
+      <guid isPermaLink="false">nrj-paris-2026-W12-Monday-07</guid>
+      <itunes:duration>3600</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>NRJ Paris — Lundi 06h</title>
+      <description>Semaine 2026-W12 — Lundi 06h00</description>
+      <pubDate>Mon, 16 Mar 2026 06:00:00 +0100</pubDate>
+      <enclosure url="https://piges.alexandremartinat.com/NRJ_Paris/Monday/06.mp3?w=2026-W12"
+                 type="audio/mpeg"
+                 length="0"/>
+      <guid isPermaLink="false">nrj-paris-2026-W12-Monday-06</guid>
+      <itunes:duration>3600</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>NRJ Paris — Lundi 05h</title>
+      <description>Semaine 2026-W12 — Lundi 05h00</description>
+      <pubDate>Mon, 16 Mar 2026 05:00:00 +0100</pubDate>
+      <enclosure url="https://piges.alexandremartinat.com/NRJ_Paris/Monday/05.mp3?w=2026-W12"
+                 type="audio/mpeg"
+                 length="0"/>
+      <guid isPermaLink="false">nrj-paris-2026-W12-Monday-05</guid>
+      <itunes:duration>3600</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>NRJ Paris — Lundi 04h</title>
+      <description>Semaine 2026-W12 — Lundi 04h00</description>
+      <pubDate>Mon, 16 Mar 2026 04:00:00 +0100</pubDate>
+      <enclosure url="https://piges.alexandremartinat.com/NRJ_Paris/Monday/04.mp3?w=2026-W12"
+                 type="audio/mpeg"
+                 length="0"/>
+      <guid isPermaLink="false">nrj-paris-2026-W12-Monday-04</guid>
+      <itunes:duration>3600</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>NRJ Paris — Lundi 03h</title>
+      <description>Semaine 2026-W12 — Lundi 03h00</description>
+      <pubDate>Mon, 16 Mar 2026 03:00:00 +0100</pubDate>
+      <enclosure url="https://piges.alexandremartinat.com/NRJ_Paris/Monday/03.mp3?w=2026-W12"
+                 type="audio/mpeg"
+                 length="0"/>
+      <guid isPermaLink="false">nrj-paris-2026-W12-Monday-03</guid>
+      <itunes:duration>3600</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>NRJ Paris — Lundi 02h</title>
+      <description>Semaine 2026-W12 — Lundi 02h00</description>
+      <pubDate>Mon, 16 Mar 2026 02:00:00 +0100</pubDate>
+      <enclosure url="https://piges.alexandremartinat.com/NRJ_Paris/Monday/02.mp3?w=2026-W12"
+                 type="audio/mpeg"
+                 length="0"/>
+      <guid isPermaLink="false">nrj-paris-2026-W12-Monday-02</guid>
+      <itunes:duration>3600</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>NRJ Paris — Lundi 01h</title>
+      <description>Semaine 2026-W12 — Lundi 01h00</description>
+      <pubDate>Mon, 16 Mar 2026 01:00:00 +0100</pubDate>
+      <enclosure url="https://piges.alexandremartinat.com/NRJ_Paris/Monday/01.mp3?w=2026-W12"
+                 type="audio/mpeg"
+                 length="0"/>
+      <guid isPermaLink="false">nrj-paris-2026-W12-Monday-01</guid>
+      <itunes:duration>3600</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>NRJ Paris — Lundi 00h</title>
+      <description>Semaine 2026-W12 — Lundi 00h00</description>
+      <pubDate>Mon, 16 Mar 2026 00:00:00 +0100</pubDate>
+      <enclosure url="https://piges.alexandremartinat.com/NRJ_Paris/Monday/00.mp3?w=2026-W12"
+                 type="audio/mpeg"
+                 length="0"/>
+      <guid isPermaLink="false">nrj-paris-2026-W12-Monday-00</guid>
       <itunes:duration>3600</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
     </item>
