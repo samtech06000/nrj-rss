@@ -1,11 +1,12 @@
 #!/usr/bin/env python3
-“””
-Generate RSS podcast feeds for NRJ Paris and NRJ Belgique.
-Each feed contains 168 episodes = 7 days × 24 hours.
-Run daily at midnight Paris time via GitHub Actions.
-Each episode guid includes the ISO week number so Apple Podcasts
-picks up a fresh episode every week for that slot.
-“””
+
+# Generate RSS podcast feeds for NRJ Paris and NRJ Belgique.
+
+# 168 episodes per feed (7 days x 24 hours).
+
+# Runs daily at 01:01 Paris time via GitHub Actions.
+
+# GUID includes ISO week number so Apple Podcasts refreshes every week.
 
 from datetime import datetime, timezone, timedelta
 import os
