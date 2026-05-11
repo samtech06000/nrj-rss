@@ -1,10 +1,10 @@
 #!/usr/bin/env python3
+
 from datetime import datetime, timezone, timedelta
 import os
 
 PARIS_TZ = timezone(timedelta(hours=1))
 now = datetime.now(PARIS_TZ)
-
 iso_year, iso_week, _ = now.isocalendar()
 week_label = str(iso_year) + "-W" + str(iso_week).zfill(2)
 
@@ -39,21 +39,28 @@ feeds = [
         "audio_type": "audio/aac",
         "guid_prefix": "nrj-belgique",
     },
+    {
+        "filename": "rmc.xml",
+        "title": "RMC",
+        "description": "Enregistrements RMC - toute la semaine, heure par heure",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/Logo_RMC_2002.svg/960px-Logo_RMC_2002.svg.png",
+        "base_url": "https://piges.alexandremartinat.com/RMC-tuner-blois",
+        "ext": "mp3",
+        "audio_type": "audio/mpeg",
+        "guid_prefix": "rmc",
+    },
 ]
 
 os.makedirs("feeds", exist_ok=True)
 
 for feed in feeds:
     items = []
-
     for day_idx in reversed(range(7)):
         for hour in reversed(range(24)):
             day_en = DAYS_EN[day_idx]
             day_fr = DAYS_FR[day_idx]
-
             slot_dt = monday_this_week + timedelta(days=day_idx, hours=hour)
             pub_date = slot_dt.strftime("%a, %d %b %Y %H:%M:%S +0100")
-
             audio_url = feed["base_url"] + "/" + day_en + "/" + str(hour).zfill(2) + "." + feed["ext"] + "?w=" + week_label
             guid = feed["guid_prefix"] + "-" + week_label + "-" + day_en + "-" + str(hour).zfill(2)
             title = feed["title"] + " - " + day_fr + " " + str(hour).zfill(2) + "h"
@@ -83,7 +90,8 @@ for feed in feeds:
     xml += "    <language>fr</language>\n"
     xml += "    <lastBuildDate>" + last_build + "</lastBuildDate>\n"
     xml += "    <atom:link href=\"" + feed_url + "\" rel=\"self\" type=\"application/rss+xml\"/>\n"
-    xml += "    <itunes:author>NRJ</itunes:author>\n"
+    xml += "    <itunes:author>RMC" if feed["guid_prefix"] == "rmc" else "    <itunes:author>NRJ"
+    xml += "</itunes:author>\n"
     xml += "    <itunes:image href=\"" + feed["image"] + "\"/>\n"
     xml += "    <itunes:category text=\"Music\"/>\n"
     xml += "    <itunes:explicit>false</itunes:explicit>\n\n"
